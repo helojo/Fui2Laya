@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <controller name="GuideCl" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n10_gqp2" name="close" src="nlo9r" fileName="Button1.xml" xy="0,0" size="1280,720" alpha="0.5">
+      <gearDisplay controller="GuideCl" pages="0,1"/>
+      <gearLook controller="GuideCl" pages="1" values="0,0,0,1" default="0.5,0,0,1" tween="true"/>
+    </component>
+    <loader id="n9_gqp2" name="1" xy="38,294" size="230,158" touchable="false" url="ui://8rk4lr1rji910">
+      <gearDisplay controller="GuideCl" pages="0,1"/>
+      <gearXY controller="GuideCl" pages="1" values="-456,286" default="38,294" tween="true"/>
+    </loader>
+    <loader id="n11_gqp2" name="2" xy="235,547" size="257,81" touchable="false" url="ui://8rk4lr1rji911">
+      <gearDisplay controller="GuideCl" pages="0,1"/>
+      <gearXY controller="GuideCl" pages="1" values="214,806" default="235,547" tween="true"/>
+    </loader>
+    <loader id="n12_gqp2" name="3" xy="414,63" size="416,83" touchable="false" url="ui://8rk4lr1rji912">
+      <gearDisplay controller="GuideCl" pages="0,1"/>
+      <gearXY controller="GuideCl" pages="1" values="408,-189" default="414,63" tween="true"/>
+    </loader>
+    <loader id="n13_gqp2" name="4" xy="512,309" pivot="0.5,0.5" size="319,82" touchable="false" url="ui://8rk4lr1rji913" align="center" vAlign="middle">
+      <gearDisplay controller="GuideCl" pages="0,1"/>
+      <gearLook controller="GuideCl" pages="0,1" values="1,0,0,0|0,0,0,1" tween="true"/>
+    </loader>
+    <loader id="n14_gqp2" name="5" xy="929,212" size="286,81" touchable="false" url="ui://8rk4lr1rji914" align="center">
+      <gearDisplay controller="GuideCl" pages="0,1"/>
+      <gearXY controller="GuideCl" pages="0,1" values="929,212|1364,203" tween="true"/>
+    </loader>
+    <loader id="n15_gqp2" name="6" xy="945,361" size="264,123" touchable="false" url="ui://8rk4lr1rji915" align="right" vAlign="bottom">
+      <gearDisplay controller="GuideCl" pages="0,1"/>
+      <gearXY controller="GuideCl" pages="1" values="1563,357" default="945,361" tween="true"/>
+    </loader>
+  </displayList>
+</component>

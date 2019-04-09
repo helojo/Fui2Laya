@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720" bgColor="#333333">
+  <displayList>
+    <graph id="n8_zeka" name="n8" xy="616,414" pivot="0.5,0.5" anchor="true" size="2000,1500" alpha="0.5" type="rect" fillColor="#ff000000"/>
+    <image id="n0_qn36" name="n0" src="qn360" fileName="balanceImg/bar_a3.png" xy="640,360" pivot="0.5,0.5" anchor="true"/>
+    <image id="n1_qn36" name="n1" src="qn363" fileName="balanceImg/bt_a1.png" xy="640,177" pivot="0.5,0.5" anchor="true"/>
+    <image id="n2_qn36" name="n2" src="qn365" fileName="balance_lang_cn/balance_Reminder.png" xy="640,167" pivot="0.5,0.5" anchor="true"/>
+    <component id="n4_qn36" name="n4" src="qn36a" fileName="btn_RechargeOK.xml" xy="640,501" pivot="0.5,0.5" anchor="true"/>
+    <component id="n5_qn36" name="n5" src="qn36c" fileName="btn_Close.xml" xy="940,163"/>
+    <text id="n7_zeka" name="n7" xy="640,360" pivot="0.5,0.5" anchor="true" size="298,97" fontSize="26" color="#ffffff" align="center" vAlign="middle" text="您的账户余额不足&#xA;为了不影响您的游戏体验&#xA;请您及时充值"/>
+  </displayList>
+</component>

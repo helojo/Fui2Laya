@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="wjbuhqup" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="nlmz0" name="fmale_grxx.png" path="/sprites_public/"/>
+    <image id="nlmz1" name="fmale_4.png" path="/sprites_public/"/>
+    <image id="nlmz4" name="help_tishi.png" path="/sprites_public/"/>
+    <image id="nlmz6" name="tiaofu.png" path="/sprites_public/"/>
+    <image id="nlmz9" name="bz.png" path="/sprites_public/"/>
+    <image id="nlmza" name="fmale_2.png" path="/sprites_public/"/>
+    <component id="nlmzb" name="PersonalInfo.xml" path="/" exported="true"/>
+    <image id="nlmzc" name="gb.png" path="/sprites_public/"/>
+    <image id="nlmzd" name="fmale_1.png" path="/sprites_public/"/>
+    <image id="nlmze" name="fmale_2(1).png" path="/sprites_public/" scale="tile"/>
+    <image id="nlmzf" name="txk_02.png" path="/sprites_public/"/>
+    <image id="nlmzg" name="txk_03.png" path="/sprites_public/"/>
+    <component id="nlmzh" name="ProgressBar1.xml" path="/"/>
+    <component id="nlmzi" name="Button1.xml" path="/Button/"/>
+    <image id="nlmzk" name="jb.png" path="/sprites_public/"/>
+    <component id="nlmzl" name="Button2.xml" path="/Button/"/>
+  </resources>
+  <publish name="PersonalInfo"/>
+</packageDescription>

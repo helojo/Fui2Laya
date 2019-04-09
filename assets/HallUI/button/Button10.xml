@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="82,79" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n1_p3pk" name="n1" src="p3pk3l" fileName="sprite_public/icon_fh.png" xy="0,0"/>
+    <loader id="n2_p3pk" name="loadName" xy="1,49" size="81,50" url="ui://41a1co2bp3pk3u" align="center"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="1.10"/>
+</component>

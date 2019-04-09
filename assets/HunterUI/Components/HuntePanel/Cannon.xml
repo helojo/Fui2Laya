@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="247,197">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n1_cajl" name="BaseBg" src="e795l" fileName="Assets/Hunter/paotai.png" xy="122,89" pivot="0.5,0.5" anchor="true">
+      <gearDisplay controller="c1" pages=""/>
+      <gearXY controller="c1" pages="0,1" values="122,89|122,51"/>
+      <gearSize controller="c1" pages="1" values="200,96,1,-1" default="200,96,1,1"/>
+    </image>
+    <loader id="n7_cajl" name="Gun" xy="122,68" pivot="0.5,0.5" anchor="true" size="98,128" url="ui://kdym4vsbe79518" align="center" vAlign="bottom">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearXY controller="c1" pages="0,1" values="122,68|122,74"/>
+      <gearSize controller="c1" pages="0,1" values="98,128,1,1|98,128,1,-1"/>
+    </loader>
+    <image id="n0_cajl" name="textBg" src="e795m" fileName="Assets/Hunter/paotai_xsk.png" xy="31,102">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearXY controller="c1" pages="1" values="29,3" default="31,102"/>
+    </image>
+    <component id="n4_cajl" name="LoseBtn" src="e795n" fileName="Components/HuntePanel/LoseBtn.xml" xy="1,81">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearXY controller="c1" pages="1" values="0,3" default="1,81"/>
+    </component>
+    <component id="n5_cajl" name="AddBtn" src="e795p" fileName="Components/HuntePanel/AddBtn.xml" xy="191,81">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearXY controller="c1" pages="1" values="189,4" default="191,81"/>
+    </component>
+    <text id="n6_cajl" name="GunPowerLabel" xy="56,103" size="136,34" font="ui://kdym4vsbd65k1o" fontSize="21" color="#00ffcc" align="center" vAlign="middle" autoSize="none" bold="true" text="300">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearXY controller="c1" pages="1" values="54,4" default="56,103"/>
+    </text>
+  </displayList>
+</component>

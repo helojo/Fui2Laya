@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="8e24rnzc" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="ji913s" name="djjj.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913t" name="kelingqu.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913u" name="jiangjin.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913v" name="jiangjlingqu.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913w" name="jine_2.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913x" name="jine.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913y" name="yijihuo.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913z" name="tip3.png" path="/sprite_En/" exported="true"/>
+    <image id="ji9140" name="wdc.png" path="/sprite_En/" exported="true"/>
+    <image id="ji9141" name="tip4.png" path="/sprite_En/" exported="true"/>
+    <image id="ji9142" name="tip0.png" path="/sprite_En/" exported="true"/>
+    <image id="ji9143" name="tip1.png" path="/sprite_En/" exported="true"/>
+    <image id="ji9144" name="qwsj.png" path="/sprite_En/" exported="true"/>
+    <image id="ji9145" name="qbylq.png" path="/sprite_En/" exported="true"/>
+    <image id="ji9146" name="lqjl.png" path="/sprite_En/" exported="true"/>
+    <image id="ji9147" name="dengji.png" path="/sprite_En/" exported="true"/>
+    <image id="ji9148" name="jingyanzhi.png" path="/sprite_En/" exported="true"/>
+    <image id="ji9149" name="jlsx.png" path="/sprite_En/" exported="true"/>
+    <image id="ji914a" name="ljlqjj.png" path="/sprite_En/" exported="true"/>
+    <image id="ji914b" name="xyyjz.png" path="/sprite_En/" exported="true"/>
+    <image id="ji911" name="-dengji.png" path="/sprite_En/" exported="true"/>
+    <image id="ji912" name="-jiangjin.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913" name="tip2.png" path="/sprite_En/" exported="true"/>
+  </resources>
+  <publish name="LevelBonusEn"/>
+</packageDescription>

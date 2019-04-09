@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="7aa2wvnl" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="f7x74" name="tipFloat.xml" path="/" exported="true"/>
+    <image id="f7x75" name="notEnoughBg.png" path="/"/>
+    <image id="f7x76" name="wait.png" path="/"/>
+    <component id="f7x77" name="tipWait.xml" path="/" exported="true"/>
+    <image id="bye68" name="kuang.png" path="/"/>
+    <image id="bye69" name="no.png" path="/"/>
+    <image id="bye6a" name="queding.png" path="/"/>
+    <image id="bye6b" name="quxiao.png" path="/"/>
+    <image id="bye6c" name="tishi.png" path="/"/>
+    <image id="bye6d" name="yes.png" path="/"/>
+    <component id="bye6e" name="tip1.xml" path="/" exported="true"/>
+    <component id="bye6g" name="Button1.xml" path="/"/>
+    <component id="bye6h" name="Button2.xml" path="/"/>
+  </resources>
+  <publish name="Public"/>
+</packageDescription>

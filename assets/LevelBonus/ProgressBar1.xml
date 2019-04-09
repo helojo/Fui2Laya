@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="161,29" extention="ProgressBar">
+  <displayList>
+    <image id="n0_hrkn" name="n0" src="hrkn32" fileName="Sprite/fmale_4(1).png" xy="0,0" size="161,29">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_hrkn" name="bar" src="hrkn33" fileName="Sprite/fmale_5.png" xy="5,4" size="152,19"/>
+  </displayList>
+  <ProgressBar/>
+</component>

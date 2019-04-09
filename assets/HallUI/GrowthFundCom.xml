@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,124">
+  <displayList>
+    <component id="n60_nlmz" name="fundBtn" src="nlmz2x" fileName="button/Button12.xml" xy="10,33"/>
+    <image id="n64_nlmz" name="n64" src="nlmz2w" fileName="sprite_public/NEW.png" xy="-1,1" pivot="0.5,1"/>
+    <text id="n65_pmlt" name="timeTex" xy="-19,121" size="150,30" font="Arial" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" strokeColor="#0a308d" text="0d 00:00:00"/>
+  </displayList>
+  <transition name="t0" autoPlay="true"/>
+</component>

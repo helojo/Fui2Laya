@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="281,60">
+  <displayList>
+    <image id="n0_cn06" name="n0" src="cn068" fileName="kuang2.png" xy="43,4"/>
+    <image id="n1_cn06" name="n1" src="cn06f" fileName="touxiang.png" xy="0,0"/>
+    <text id="n2_cn06" name="playNameTex" xy="61,8" size="209,47" font="Arial" fontSize="26" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="null"/>
+  </displayList>
+</component>

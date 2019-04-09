@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ayzigdcu" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="gbiv14" name="wsb.png" path="/sprite_en/" exported="true"/>
+    <image id="gbiv15" name="shangzhou_down.png" path="/sprite_en/" exported="true"/>
+    <image id="gbiv16" name="shangzhou.png" path="/sprite_en/" exported="true"/>
+    <image id="gbiv17" name="benzhou.png" path="/sprite_en/" exported="true"/>
+    <image id="gbiv18" name="benzhou_down.png" path="/sprite_en/" exported="true"/>
+    <image id="ji911a" name="phb.png" path="/sprite_en/" exported="true"/>
+  </resources>
+  <publish name="RankingEn"/>
+</packageDescription>

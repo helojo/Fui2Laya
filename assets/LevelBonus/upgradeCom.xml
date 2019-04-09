@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="226,60">
+  <controller name="c1" pages="0,,1," selected="1"/>
+  <displayList>
+    <component id="n11_hrkn" name="upgradeBtn" src="hrkn25" fileName="Button/Button2.xml" xy="0,0">
+      <gearDisplay controller="c1" pages="0"/>
+    </component>
+    <loader id="n12_hrkn" name="yijihuo" xy="46,14" pivot="0.5,0.5" size="199,36" url="ui://8e24rnzcji913y" align="right" vAlign="middle" autoSize="true">
+      <gearDisplay controller="c1" pages="1"/>
+    </loader>
+    <image id="n13_hrkn" name="n13" src="hrknx" fileName="sprite_public/yjihuo_gou.png" xy="-18,-2">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="n12_hrkn" sidePair="left-left"/>
+    </image>
+  </displayList>
+  <transition name="t0"/>
+</component>

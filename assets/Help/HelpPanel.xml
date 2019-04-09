@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <controller name="tab" pages="0,,1,,2," selected="0"/>
+  <displayList>
+    <graph id="n0_lqxc" name="n0" xy="0,0" size="1280,720" alpha="0.5" type="rect" fillColor="#ff000000"/>
+    <image id="n1_lqxc" name="n1" src="lqxcl" fileName="sprite_public/halp_frame.png" xy="196,93"/>
+    <loader id="n2_lqxc" name="help" xy="608,108" size="65,38" url="ui://aeca07pslqxc4"/>
+    <component id="n5_lqxc" name="n5" src="lqxcn" fileName="button/tab.xml" xy="265,148">
+      <Button checked="true" controller="tab" page="0"/>
+    </component>
+    <component id="n6_lqxc" name="n6" src="lqxcn" fileName="button/tab.xml" xy="530,148">
+      <Button controller="tab" page="1"/>
+    </component>
+    <component id="n7_lqxc" name="n7" src="lqxcn" fileName="button/tab.xml" xy="797,148">
+      <Button controller="tab" page="2"/>
+    </component>
+    <loader id="n18_v4db" name="yuleijieshao_" xy="328,159" size="110,28" group="n56_v4db" touchable="false" url="ui://agdgw4atgbiv13" align="center" vAlign="middle"/>
+    <list id="n53_v4db" name="n53" xy="222,211" size="837,400" group="n56_v4db" layout="flow_hz" selectionMode="none" overflow="scroll" lineGap="7" colGap="8" lineItemCount="5" defaultItem="ui://m8mmxtxqv4dbs" align="center">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n56_v4db" name="fishIntro" xy="222,159" size="837,452" advanced="true">
+      <gearDisplay controller="tab" pages="0"/>
+    </group>
+    <loader id="n12_lqxc" name="yuleijieshao" xy="330,162" size="95,24" touchable="false" url="ui://aeca07pslqxci" align="center" vAlign="middle">
+      <gearDisplay controller="tab" pages="1,2"/>
+    </loader>
+    <loader id="n16_v4db" name="paotaijieshao_" xy="863,160" size="110,28" group="n47_v4db" touchable="false" url="ui://aeca07pslqxce" align="center" vAlign="middle"/>
+    <image id="n23_v4db" name="n23" src="lqxc3" fileName="sprite_public/halpkuang_.png" xy="246,212" group="n27_v4db"/>
+    <image id="n24_v4db" name="n24" src="lqxc7" fileName="sprite_public/pao_1.png" xy="330,332" group="n27_v4db"/>
+    <loader id="n25_v4db" name="paotai_1" xy="264,498" size="224,51" group="n27_v4db" url="ui://aeca07pslqxca" align="center"/>
+    <loader id="n26_v4db" name="btp" xy="331,243" size="96,39" group="n27_v4db" url="ui://aeca07pslqxc0" align="center"/>
+    <group id="n27_v4db" name="n27" xy="246,212" size="263,384" group="n47_v4db" collapsed="true"/>
+    <image id="n28_v4db" name="n28" src="lqxc3" fileName="sprite_public/halpkuang_.png" xy="519,212" group="n41_v4db"/>
+    <image id="n38_v4db" name="n38" src="lqxc8" fileName="sprite_public/pao_2.png" xy="599,322" group="n41_v4db"/>
+    <loader id="n39_v4db" name="paotai_2" xy="540,500" size="223,49" group="n41_v4db" url="ui://aeca07pslqxcb" align="center"/>
+    <loader id="n40_v4db" name="gjp" xy="607,243" size="90,40" group="n41_v4db" url="ui://aeca07pslqxc1" align="center"/>
+    <group id="n41_v4db" name="n41" xy="519,212" size="263,384" group="n47_v4db" collapsed="true"/>
+    <image id="n33_v4db" name="n33" src="lqxc3" fileName="sprite_public/halpkuang_.png" xy="788,212" group="n45_v4db"/>
+    <image id="n42_v4db" name="n42" src="lqxc9" fileName="sprite_public/pao_3.png" xy="843,314" group="n45_v4db"/>
+    <loader id="n43_v4db" name="paotai_3" xy="806,499" size="224,50" group="n45_v4db" url="ui://aeca07pslqxcc" align="center"/>
+    <loader id="n44_v4db" name="tejipao" xy="872,244" size="97,39" group="n45_v4db" url="ui://aeca07pslqxcf" align="center"/>
+    <group id="n45_v4db" name="n45" xy="788,212" size="263,384" group="n47_v4db" collapsed="true"/>
+    <group id="n47_v4db" name="cannonIntro" xy="246,160" size="805,436" advanced="true">
+      <gearDisplay controller="tab" pages="2"/>
+    </group>
+    <loader id="n17_v4db" name="paotaijieshao" xy="872,162" size="94,24" touchable="false" url="ui://aeca07pslqxcd" align="center" vAlign="middle">
+      <gearDisplay controller="tab" pages="0,1"/>
+    </loader>
+    <component id="n4_lqxc" name="playIntroCom" src="gbiv1f" fileName="playIntroCom.xml" xy="257,203" group="n50_v4db"/>
+    <loader id="n15_v4db" name="wanfashuoming_" xy="592,159" size="111,28" group="n50_v4db" touchable="false" url="ui://aeca07pslqxch" align="center" vAlign="middle"/>
+    <group id="n50_v4db" name="playIntro" xy="257,159" size="777,448" advanced="true">
+      <gearDisplay controller="tab" pages="1"/>
+    </group>
+    <loader id="n51_v4db" name="wanfashuoming" xy="599,162" size="95,24" touchable="false" url="ui://agdgw4atgbivz" align="center" vAlign="middle">
+      <gearDisplay controller="tab" pages="0,2"/>
+    </loader>
+    <component id="n52_v4db" name="close" src="v4dbr" fileName="button/close.xml" xy="1057,86"/>
+  </displayList>
+</component>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="268,27">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <loader id="n26_hrkn" name="jine" xy="-38,-11" pivot="0.5,0.7" size="333,45" url="ui://8e24rnzcji913x" align="center" vAlign="middle" autoSize="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </loader>
+    <loader id="n27_hrkn" name="jine_2" xy="57,0" size="151,27" url="ui://8e24rnzcji913w" align="center" vAlign="middle">
+      <gearDisplay controller="c1" pages="1"/>
+    </loader>
+    <text id="n28_hrkn" name="buyMoneyTex" xy="64,5" size="70,31" font="Arial" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="0">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="n26_hrkn" sidePair="right-right,top-bottom"/>
+    </text>
+  </displayList>
+</component>

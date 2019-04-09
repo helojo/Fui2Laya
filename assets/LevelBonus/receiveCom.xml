@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="512,512" pivot="0.5,0.5">
+  <controller name="c1" pages="0,,1,,2,,3," selected="0"/>
+  <displayList>
+    <movieclip id="n21_hrkn" name="n21" src="hrkn3n" fileName="2/2.jta" xy="0,0">
+      <gearDisplay controller="c1" pages="1"/>
+    </movieclip>
+    <image id="n9_hrkn" name="n9" src="hrkn0" fileName="sprite_public/baox_001.png" xy="171,170" group="n22_hrkn"/>
+    <loader id="n20_hrkn" name="wdc" xy="203,294" size="94,35" group="n22_hrkn" url="ui://8e24rnzcji9140" align="center" vAlign="middle"/>
+    <group id="n22_hrkn" name="n22" xy="171,170" size="172,176" advanced="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </group>
+    <movieclip id="n23_hrkn" name="n23" src="hrkn3o" fileName="1/1.jta" xy="129,126">
+      <gearDisplay controller="c1" pages="2"/>
+    </movieclip>
+    <loader id="n24_hrkn" name="qbylq" xy="80,252" size="245,54" url="ui://8op74ku3hrknt" align="center" vAlign="middle">
+      <gearDisplay controller="c1" pages="3"/>
+    </loader>
+    <component id="n25_hrkn" name="reBtn" src="hrkn3p" fileName="Button/Button6.xml" xy="176,207" size="155,118" alpha="0">
+      <gearDisplay controller="c1" pages="2"/>
+    </component>
+    <loader id="n26_hrkn" name="kelingqu" xy="216,300" size="94,35" url="ui://8op74ku3hrknm" align="center" vAlign="middle">
+      <gearDisplay controller="c1" pages="2"/>
+    </loader>
+  </displayList>
+</component>

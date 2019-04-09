@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="84jmrrgb" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="ji91n" name="3.png" path="/sprite_En/" exported="true"/>
+    <image id="ji91o" name="4.png" path="/sprite_En/" exported="true"/>
+    <image id="ji91p" name="1.png" path="/sprite_En/" exported="true"/>
+    <image id="ji91q" name="2.png" path="/sprite_En/" exported="true"/>
+    <image id="ji91r" name="gongxizj_en.png" path="/sprite_En/" exported="true"/>
+  </resources>
+  <publish name="WinningEn"/>
+</packageDescription>

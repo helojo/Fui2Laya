@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="8yi4k7hs" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="ji9115" name="dqlqje.png" path="/sprite_En/" exported="true"/>
+    <image id="ji9116" name="qszjj_3.png" path="/sprite_En/" exported="true"/>
+    <image id="ji9117" name="shhhbss.png" path="/sprite_En/" exported="true"/>
+    <image id="ji9118" name="sysj.png" path="/sprite_En/" exported="true"/>
+    <image id="ji9119" name="wenzi2.png" path="/sprite_En/" exported="true"/>
+    <image id="ji911a" name="wenzi1.png" path="/sprite_En/" exported="true"/>
+    <image id="ji911b" name="djjj.png" path="/sprite_En/" exported="true"/>
+    <image id="ji911c" name="jtbzts.png" path="/sprite_En/" exported="true"/>
+  </resources>
+  <publish name="FundTipEn"/>
+</packageDescription>

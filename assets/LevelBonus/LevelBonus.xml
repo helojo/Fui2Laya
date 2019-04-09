@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <graph id="n0_hrkn" name="n0" xy="0,1" size="1280,720" alpha="0.5" type="rect" fillColor="#ff000000"/>
+    <image id="n1_hrkn" name="n1" src="hrkn1v" fileName="sprite_public/fmale_3.png" xy="70,59"/>
+    <image id="n3_hrkn" name="n3" src="hrkn1x" fileName="sprite_public/hengfu.png" xy="299,16"/>
+    <image id="n4_hrkn" name="n4" src="hrkn9" fileName="sprite_public/ing_1.png" xy="163,212"/>
+    <component id="n5_hrkn" name="closeBtn" src="hrkn1y" fileName="Button/Button1.xml" xy="1166,60"/>
+    <list id="n6_hrkn" name="ExpList" xy="134,312" size="456,253" overflow="scroll" defaultItem="ui://wnu88fl5hrkn29"/>
+    <image id="n7_hrkn" name="n7" src="hrkn1z" fileName="sprite_public/fmale_4.png" xy="121,260"/>
+    <loader id="n8_hrkn" name="-jiangjin" xy="732,574" size="72,32" url="ui://8op74ku3hrknd" align="right" vAlign="middle"/>
+    <component id="n11_hrkn" name="upgradeCom" src="hrkn27" fileName="upgradeCom.xml" xy="267,572"/>
+    <component id="n12_hrkn" name="detailsBtn" src="hrkn26" fileName="Button/Button3.xml" xy="129,212"/>
+    <loader id="n13_hrkn" name="dengji" xy="172,271" size="52,28" url="ui://8op74ku3hrkn4" align="center" vAlign="middle"/>
+    <loader id="n14_hrkn" name="djjj" xy="550,32" size="182,50" url="ui://8op74ku3hrkn5" align="center" vAlign="middle"/>
+    <image id="n16_hrkn" name="n16" src="hrkn7" fileName="sprite_public/fmale_1.png" xy="691,225"/>
+    <image id="n17_hrkn" name="n17" src="hrkn7" fileName="sprite_public/fmale_1.png" xy="691,315"/>
+    <image id="n18_hrkn" name="n18" src="hrkn7" fileName="sprite_public/fmale_1.png" xy="695,413"/>
+    <loader id="n19_hrkn" name="xyyjz" xy="709,346" size="199,23" url="ui://8op74ku3hrknv" align="right" vAlign="middle"/>
+    <image id="n21_hrkn" name="n21" src="hrknc" fileName="sprite_public/jb.png" xy="918,340"/>
+    <image id="n22_hrkn" name="n22" src="hrknc" fileName="sprite_public/jb.png" xy="922,438"/>
+    <loader id="n23_hrkn" name="jiangjin" xy="480,269" size="52,28" url="ui://8op74ku3hrkne" align="center" vAlign="middle"/>
+    <loader id="n24_hrkn" name="jiangjlingqu" xy="846,519" size="62,28" url="ui://8op74ku3hrknf" vAlign="middle"/>
+    <component id="n26_hrkn" name="tipCom" src="hrkn3k" fileName="Font/je3e_0-9_/tipCom.xml" xy="238,224"/>
+    <loader id="n28_hrkn" name="jingyanzhi" xy="301,271" size="76,28" url="ui://8op74ku3hrknj" align="center" vAlign="middle"/>
+    <loader id="n29_hrkn" name="jlsx" xy="701,258" pivot="0,0.5" size="175,23" url="ui://8op74ku3hrknk" vAlign="middle" autoSize="true"/>
+    <loader id="n30_hrkn" name="ljlqjj" xy="760,444" size="150,23" url="ui://8op74ku3hrkno" align="right" vAlign="middle"/>
+    <component id="n32_hrkn" name="recordBtn" src="hrkn2a" fileName="Button/Button4.xml" xy="978,153"/>
+    <component id="n34_hrkn" name="expSli" src="hrkn34" fileName="ProgressBar1.xml" xy="784,176">
+      <ProgressBar max="100"/>
+    </component>
+    <text id="n35_hrkn" name="n35" xy="724,176" size="54,27" font="STZhongsong" fontSize="20" color="#ae4e19" align="center" vAlign="middle" autoSize="none" bold="true" text="等级"/>
+    <text id="n37_hrkn" name="expLvTex" xy="804,177" size="52,24" font="YouYuan" fontSize="15" color="#ffffff" vAlign="middle" autoSize="none" bold="true" strokeColor="#ae4e19" text="1级"/>
+    <text id="n40_hrkn" name="expPreTex" xy="874,178" size="64,22" font="Arial" fontSize="15" color="#ffffff" vAlign="middle" autoSize="none" bold="true" strokeColor="#ae4e19" text="0%"/>
+    <loader id="n41_hrkn" name="-dengji" xy="698,519" size="68,28" url="ui://8op74ku3hrkn3" align="right" vAlign="middle"/>
+    <component id="n43_hrkn" name="nextBtn" src="hrkn35" fileName="Button/Button5.xml" xy="574,401"/>
+    <component id="n44_hrkn" name="preBtn" src="hrkn35" fileName="Button/Button5.xml" xy="101,401" skew="180,180"/>
+    <text id="n45_hrkn" name="disNextExpTex" xy="877,251" size="246,39" font="ui://wnu88fl5hrkn3j" fontSize="20" color="#ae4e19" vAlign="middle" letterSpacing="-3" autoSize="none" bold="true" text="0">
+      <relation target="n29_hrkn" sidePair="right-right"/>
+    </text>
+    <text id="n46_hrkn" name="nextBounsTex" xy="957,335" size="151,45" font="ui://wnu88fl5hrkn3j" fontSize="20" color="#ae4e19" vAlign="middle" letterSpacing="-3" autoSize="none" bold="true" text="0"/>
+    <text id="n47_hrkn" name="allBounsTex" xy="963,435" size="164,46" font="ui://wnu88fl5hrkn3j" fontSize="20" color="#ae4e19" vAlign="middle" letterSpacing="-3" autoSize="none" bold="true" text="0"/>
+    <text id="n48_hrkn" name="lvTex" xy="775,515" size="64,42" font="ui://wnu88fl5hrkn3l" fontSize="20" color="#ae4e19" align="center" vAlign="middle" letterSpacing="-5" autoSize="none" bold="true" text="0"/>
+    <text id="n49_hrkn" name="bounsTex" xy="802,568" size="124,38" font="ui://wnu88fl5hrkn3m" fontSize="20" color="#ae4e19" align="center" vAlign="middle" letterSpacing="-5" autoSize="none" bold="true" text="0"/>
+    <loader id="n50_hrkn" name="tipLoader" xy="345,151" pivot="0.5,0.5" size="50,50" url="ui://8e24rnzcji9143" align="center" vAlign="middle"/>
+    <component id="n9_hrkn" name="receiveCom" src="hrkn28" fileName="receiveCom.xml" xy="821,298"/>
+  </displayList>
+</component>

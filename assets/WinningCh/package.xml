@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="881mnxb9" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="sq0l8" name="1.png" path="/sprite_Ch/" exported="true"/>
+    <image id="sq0l2" name="2.png" path="/sprite_Ch/" exported="true"/>
+    <image id="sq0l5" name="3.png" path="/sprite_Ch/" exported="true"/>
+    <image id="sq0l6" name="4.png" path="/sprite_Ch/" exported="true"/>
+    <image id="sq0l4" name="gxzj.png" path="/sprite_Ch/" exported="true"/>
+  </resources>
+  <publish name="WinningCh"/>
+</packageDescription>

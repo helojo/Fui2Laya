@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="130,403">
+  <controller name="c1" pages="0,,1,,2," selected="2"/>
+  <displayList>
+    <image id="n4_cajl" name="n4" src="e7952" fileName="Assets/Hunter/bgMenu.png" xy="0,0">
+      <gearDisplay controller="c1" pages="0,1,2"/>
+      <gearLook controller="c1" pages="0" values="0,0,0,1" default="1,0,0,1" tween="true"/>
+    </image>
+    <component id="n0_cajl" name="ExcelBtn" src="e7953" fileName="Components/HuntePanel/ExcelBtn.xml" xy="17,114" alpha="0" touchable="false">
+      <gearDisplay controller="c1" pages="0,1,2"/>
+      <gearLook controller="c1" pages="0,2" values="0,0,0,1|0,0,0,0" default="1,0,0,1" tween="true"/>
+    </component>
+    <component id="n1_cajl" name="ExitBtn" src="e7955" fileName="Components/HuntePanel/ExitBtn.xml" xy="18,71">
+      <gearDisplay controller="c1" pages="0,1,2"/>
+      <gearXY controller="c1" pages="2" values="18,71" default="18,28" tween="true"/>
+      <gearLook controller="c1" pages="0" values="0,0,0,1" default="1,0,0,1" tween="true"/>
+    </component>
+    <component id="n2_cajl" name="HelpBtn" src="e7957" fileName="Components/HuntePanel/HelpBtn.xml" xy="17,161">
+      <gearDisplay controller="c1" pages="0,1,2"/>
+      <gearXY controller="c1" pages="2" values="17,161" default="17,200" tween="true"/>
+      <gearLook controller="c1" pages="0" values="0,0,0,1" default="1,0,0,1" tween="true"/>
+    </component>
+    <component id="n3_cajl" name="SetBtn" src="e7959" fileName="Components/HuntePanel/SetBtn.xml" xy="17,257">
+      <gearDisplay controller="c1" pages="0,1,2"/>
+      <gearXY controller="c1" pages="2" values="17,257" default="17,286" tween="true"/>
+      <gearLook controller="c1" pages="0" values="0,0,0,1" default="1,0,0,1" tween="true"/>
+    </component>
+    <component id="n6_cajl" name="MenuBtn" src="e795b" fileName="Components/HuntePanel/MenuBtn.xml" xy="99,162"/>
+  </displayList>
+</component>

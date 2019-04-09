@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="355,212">
+  <displayList>
+    <image id="n0_gqp2" name="n0" src="nlo9a" fileName="sprite_public/tip_di.png" xy="0,0" pivot="1,1"/>
+    <component id="n1_gqp2" name="RateBtn" src="gqp21i" fileName="button/Button1.xml" xy="120,127"/>
+    <image id="n5_gqp2" name="n5" src="gqp2o" fileName="sprite_public/icon.png" xy="67,64"/>
+    <loader id="n6_gqp2" name="nameLoader" xy="132,30" pivot="0.5,0.5" size="87,25" url="ui://19ec9vffnlo9g" align="center" vAlign="middle"/>
+    <loader id="n7_gqp2" name="bulletLoader" xy="165,92" pivot="0.5,0.5" size="178,23" url="ui://19ec9vffp3pk3o" align="center" vAlign="middle"/>
+    <loader id="n8_gqp2" name="rateLoader" xy="142,132" pivot="1,1" size="80,38" touchable="false" url="ui://19ec9vffgqp2v" align="center" vAlign="middle"/>
+    <loader id="n9_p3pk" name="loadBulletName" xy="106,67" size="50,50" url="ui://41a1co2bp3pk3v"/>
+  </displayList>
+</component>

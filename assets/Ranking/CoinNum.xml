@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="263,62">
+  <displayList>
+    <image id="n0_cn06" name="n0" src="cn068" fileName="Sprite/kuang2.png" xy="26,1"/>
+    <image id="n1_cn06" name="n1" src="cn064" fileName="Sprite/jb_3.png" xy="0,0"/>
+    <text id="n2_cn06" name="coinTex" xy="58,14" size="194,31" font="Arial" fontSize="26" color="#fff980" align="center" vAlign="middle" autoSize="shrink" bold="true" text="0"/>
+  </displayList>
+</component>

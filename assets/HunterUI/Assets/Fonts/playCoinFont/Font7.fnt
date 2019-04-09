@@ -1,0 +1,13 @@
+info creator=UIBuilder size=12 resizable=true
+char id=44 img=orcv5w xoffset=0 yoffset=0 xadvance=0
+char id=48 img=orcv5x xoffset=0 yoffset=0 xadvance=0
+char id=49 img=orcv5y xoffset=0 yoffset=0 xadvance=0
+char id=50 img=orcv5z xoffset=0 yoffset=0 xadvance=0
+char id=51 img=orcv60 xoffset=0 yoffset=0 xadvance=0
+char id=52 img=orcv61 xoffset=0 yoffset=0 xadvance=0
+char id=53 img=orcv62 xoffset=0 yoffset=0 xadvance=0
+char id=54 img=orcv63 xoffset=0 yoffset=0 xadvance=0
+char id=55 img=orcv64 xoffset=0 yoffset=0 xadvance=0
+char id=56 img=orcv65 xoffset=0 yoffset=0 xadvance=0
+char id=57 img=orcv66 xoffset=0 yoffset=0 xadvance=0
+char id=46 img=orcv5v xoffset=0 yoffset=0 xadvance=0

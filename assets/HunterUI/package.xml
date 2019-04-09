@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="kdym4vsb" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="e7950" name="HunterPanel.xml" path="/Components/HuntePanel/" exported="true"/>
+    <component id="e7951" name="Menu.xml" path="/Components/HuntePanel/"/>
+    <image id="e7952" name="bgMenu.png" path="/Assets/Hunter/" exported="true"/>
+    <component id="e7953" name="ExcelBtn.xml" path="/Components/HuntePanel/"/>
+    <image id="e7954" name="btn_baobiao.png" path="/Assets/Hunter/CN/" exported="true"/>
+    <component id="e7955" name="ExitBtn.xml" path="/Components/HuntePanel/"/>
+    <image id="e7956" name="btn_tuichu.png" path="/Assets/Hunter/CN/" exported="true"/>
+    <component id="e7957" name="HelpBtn.xml" path="/Components/HuntePanel/"/>
+    <image id="e7958" name="btn_help.png" path="/Assets/Hunter/CN/" exported="true"/>
+    <component id="e7959" name="SetBtn.xml" path="/Components/HuntePanel/"/>
+    <image id="e795a" name="btn_shezhi.png" path="/Assets/Hunter/CN/" exported="true"/>
+    <component id="e795b" name="MenuBtn.xml" path="/Components/HuntePanel/"/>
+    <image id="e795c" name="Btnout.png" path="/Assets/Hunter/" exported="true"/>
+    <image id="e795d" name="BtnIn.png" path="/Assets/Hunter/" exported="true"/>
+    <component id="e795e" name="LockBtn.xml" path="/Components/HuntePanel/"/>
+    <image id="e795f" name="lock.png" path="/Assets/Hunter/" exported="true"/>
+    <image id="e795g" name="lock_down.png" path="/Assets/Hunter/" exported="true"/>
+    <component id="e795h" name="AutoBtn.xml" path="/Components/HuntePanel/"/>
+    <image id="e795i" name="auto.png" path="/Assets/Hunter/" exported="true"/>
+    <image id="e795j" name="auto_down.png" path="/Assets/Hunter/" exported="true"/>
+    <component id="e795k" name="Cannon.xml" path="/Components/HuntePanel/"/>
+    <image id="e795l" name="paotai.png" path="/Assets/Hunter/" exported="true"/>
+    <image id="e795m" name="paotai_xsk.png" path="/Assets/Hunter/" exported="true"/>
+    <component id="e795n" name="LoseBtn.xml" path="/Components/HuntePanel/"/>
+    <image id="e795o" name="jianpao.png" path="/Assets/Hunter/" exported="true"/>
+    <component id="e795p" name="AddBtn.xml" path="/Components/HuntePanel/"/>
+    <image id="e795q" name="jiapao.png" path="/Assets/Hunter/" exported="true"/>
+    <image id="e795r" name="btn_ddjr.png" path="/Assets/Hunter/CN/" exported="true"/>
+    <image id="e795s" name="pao_2.png" path="/Assets/Hunter/" exported="true"/>
+    <image id="e795t" name="btn.png" path="/Assets/Hunter/" exported="true" scale=""/>
+    <image id="e795u" name="btn_wait.png" path="/Assets/Hunter/CN/" exported="true"/>
+    <image id="e795v" name="cxxz.png" path="/Assets/Hunter/CN/" exported="true"/>
+    <image id="e795w" name="frame_1.png" path="/Assets/Hunter/" exported="true"/>
+    <image id="e795x" name="frame_2.png" path="/Assets/Hunter/"/>
+    <image id="e795y" name="frame_3png.png" path="/Assets/Hunter/" exported="true"/>
+    <image id="e79510" name="ggzd_.png" path="/Assets/Hunter/CN/" exported="true"/>
+    <image id="e79511" name="hasHunter.png" path="/Assets/Hunter/CN/" exported="true"/>
+    <image id="e79512" name="ing_zdbyz.png" path="/Assets/Hunter/CN/" exported="true"/>
+    <image id="e79513" name="jiazai_sc.png" path="/Assets/Hunter/CN/" exported="true"/>
+    <image id="e79514" name="jp_kuang2.png" path="/Assets/Hunter/" exported="true" scale="9grid" scale9grid="12,12,25,23"/>
+    <image id="e79515" name="ksby.png" path="/Assets/Hunter/" exported="true"/>
+    <image id="e79516" name="ksby_.png" path="/Assets/Hunter/CN/" exported="true"/>
+    <image id="e79517" name="name_bg.png" path="/Assets/Hunter/" exported="true" scale="9grid" scale9grid="15,10,138,20"/>
+    <image id="e79518" name="pao_1.png" path="/Assets/Hunter/" exported="true"/>
+    <image id="e79519" name="pao_3.png" path="/Assets/Hunter/" exported="true"/>
+    <image id="e7951a" name="pic_gou.png" path="/Assets/Hunter/" exported="true"/>
+    <image id="e7951c" name="qbxz_.png" path="/Assets/Hunter/CN/" exported="true"/>
+    <image id="e7951d" name="qdjzdbyd.png" path="/Assets/Hunter/CN/" exported="true"/>
+    <image id="e7951e" name="quxiaosuoding.png" path="/Assets/Hunter/CN/" exported="true"/>
+    <image id="e7951f" name="quxiaozidong.png" path="/Assets/Hunter/CN/" exported="true"/>
+    <image id="e7951g" name="qxzd.png" path="/Assets/Hunter/" exported="true"/>
+    <image id="e7951h" name="qxzd_.png" path="/" exported="true"/>
+    <image id="e7951i" name="suodinggongji.png" path="/Assets/Hunter/CN/" exported="true"/>
+    <image id="e7951j" name="word1.png" path="/Assets/Hunter/" exported="true"/>
+    <image id="e7951k" name="zdby.png" path="/Assets/Hunter/CN/" exported="true"/>
+    <image id="e7951l" name="zidan.png" path="/Assets/Hunter/" exported="true"/>
+    <image id="e7951m" name="zidonggongji.png" path="/Assets/Hunter/CN/" exported="true"/>
+    <component id="d65k1n" name="CannonInfo.xml" path="/Components/HuntePanel/"/>
+    <font id="d65k1o" name="Gun.fnt" path="/Assets/Fonts/" exported="true"/>
+    <image id="d65k1p" name="djbs.png" path="/Assets/Hunter/"/>
+    <image id="d65k1q" name="jinbi_06.png" path="/Assets/Hunter/"/>
+    <image id="d65k1t" name="3d_pao0-9_01.png" path="/Assets/Hunter/pao_0-9/"/>
+    <image id="d65k1u" name="3d_pao0-9_02.png" path="/Assets/Hunter/pao_0-9/"/>
+    <image id="d65k1v" name="3d_pao0-9_03.png" path="/Assets/Hunter/pao_0-9/"/>
+    <image id="d65k1w" name="3d_pao0-9_04.png" path="/Assets/Hunter/pao_0-9/"/>
+    <image id="d65k1x" name="3d_pao0-9_05.png" path="/Assets/Hunter/pao_0-9/"/>
+    <image id="d65k1y" name="3d_pao0-9_06.png" path="/Assets/Hunter/pao_0-9/"/>
+    <image id="d65k1z" name="3d_pao0-9_07.png" path="/Assets/Hunter/pao_0-9/"/>
+    <image id="d65k20" name="3d_pao0-9_08.png" path="/Assets/Hunter/pao_0-9/"/>
+    <image id="d65k21" name="3d_pao0-9_09.png" path="/Assets/Hunter/pao_0-9/"/>
+    <image id="d65k22" name="3d_pao0-9_10.png" path="/Assets/Hunter/pao_0-9/"/>
+    <image id="d65k23" name="3d_pao0-9_11.png" path="/Assets/Hunter/pao_0-9/"/>
+    <font id="e2q92d" name="Font2.fnt" path="/Assets/Fonts/" exported="true"/>
+    <image id="e2q92e" name="赢_01.png" path="/Assets/Fonts/房间/shuzi/"/>
+    <image id="e2q92f" name="赢_02.png" path="/Assets/Fonts/房间/shuzi/"/>
+    <image id="e2q92g" name="赢_03.png" path="/Assets/Fonts/房间/shuzi/"/>
+    <image id="e2q92h" name="赢_04.png" path="/Assets/Fonts/房间/shuzi/"/>
+    <image id="e2q92i" name="赢_05.png" path="/Assets/Fonts/房间/shuzi/"/>
+    <image id="e2q92j" name="赢_06.png" path="/Assets/Fonts/房间/shuzi/"/>
+    <image id="e2q92k" name="赢_07.png" path="/Assets/Fonts/房间/shuzi/"/>
+    <image id="e2q92l" name="赢_08.png" path="/Assets/Fonts/房间/shuzi/"/>
+    <image id="e2q92m" name="赢_09.png" path="/Assets/Fonts/房间/shuzi/"/>
+    <image id="e2q92n" name="赢_10.png" path="/Assets/Fonts/房间/shuzi/"/>
+    <image id="e2q92o" name="赢_11.png" path="/Assets/Fonts/房间/shuzi/"/>
+    <image id="e2q92p" name="赢_12.png" path="/Assets/Fonts/房间/shuzi/"/>
+    <image id="e2q92q" name="赢_00.png" path="/Assets/Fonts/房间/shuzi/"/>
+    <image id="lnng2r" name="jp_jb.png" path="/Assets/Hunter/"/>
+    <image id="lnng2t" name="0.png" path="/Assets/Hunter/炮台金币数字/"/>
+    <image id="lnng2u" name="1.png" path="/Assets/Hunter/炮台金币数字/"/>
+    <image id="lnng2v" name="2.png" path="/Assets/Hunter/炮台金币数字/"/>
+    <image id="lnng2w" name="3.png" path="/Assets/Hunter/炮台金币数字/"/>
+    <image id="lnng2x" name="4.png" path="/Assets/Hunter/炮台金币数字/"/>
+    <image id="lnng2y" name="5.png" path="/Assets/Hunter/炮台金币数字/"/>
+    <image id="lnng2z" name="6.png" path="/Assets/Hunter/炮台金币数字/"/>
+    <image id="lnng30" name="7.png" path="/Assets/Hunter/炮台金币数字/"/>
+    <image id="lnng31" name="8.png" path="/Assets/Hunter/炮台金币数字/"/>
+    <image id="lnng32" name="9.png" path="/Assets/Hunter/炮台金币数字/"/>
+    <font id="lnng33" name="coinFont.fnt" path="/Assets/Hunter/炮台金币数字/"/>
+    <image id="lnng34" name="coinFont_0.tga" path="/Assets/Hunter/炮台金币数字/"/>
+    <image id="lnng3i" name="baoxiang_x.png" path="/Assets/Hunter/UI/"/>
+    <image id="lnng3j" name="gdt.png" path="/Assets/Hunter/UI/"/>
+    <image id="lnng3m" name="ing_4.png" path="/Assets/Hunter/UI/" scale="9grid" scale9grid="54,45,108,34"/>
+    <image id="lnng3n" name="wjxx.png" path="/Assets/Hunter/UI/"/>
+    <image id="lnng3o" name="xybx.png" path="/Assets/Hunter/UI/"/>
+    <image id="lnng3p" name="0.png" path="/Assets/Hunter/jp和等级_0-9/"/>
+    <image id="lnng3q" name="1.png" path="/Assets/Hunter/jp和等级_0-9/"/>
+    <image id="lnng3r" name="2.png" path="/Assets/Hunter/jp和等级_0-9/"/>
+    <image id="lnng3s" name="3.png" path="/Assets/Hunter/jp和等级_0-9/"/>
+    <image id="lnng3t" name="4.png" path="/Assets/Hunter/jp和等级_0-9/"/>
+    <image id="lnng3u" name="5.png" path="/Assets/Hunter/jp和等级_0-9/"/>
+    <image id="lnng3v" name="6.png" path="/Assets/Hunter/jp和等级_0-9/"/>
+    <image id="lnng3w" name="7.png" path="/Assets/Hunter/jp和等级_0-9/"/>
+    <image id="lnng3x" name="8.png" path="/Assets/Hunter/jp和等级_0-9/"/>
+    <image id="lnng3y" name="9.png" path="/Assets/Hunter/jp和等级_0-9/"/>
+    <image id="lnng3z" name="等级标识0-9_01.png" path="/Assets/Hunter/jp和等级_0-9/"/>
+    <image id="lnng40" name="等级标识0-9_02.png" path="/Assets/Hunter/jp和等级_0-9/"/>
+    <image id="lnng41" name="等级标识0-9_03.png" path="/Assets/Hunter/jp和等级_0-9/"/>
+    <image id="lnng42" name="等级标识0-9_04.png" path="/Assets/Hunter/jp和等级_0-9/"/>
+    <image id="lnng43" name="等级标识0-9_05.png" path="/Assets/Hunter/jp和等级_0-9/"/>
+    <image id="lnng44" name="等级标识0-9_06.png" path="/Assets/Hunter/jp和等级_0-9/"/>
+    <font id="lnng45" name="Font3.fnt" path="/Assets/Fonts/" exported="true"/>
+    <font id="lnng47" name="Font4.fnt" path="/Assets/Fonts/" exported="true"/>
+    <font id="lnng48" name="Font5.fnt" path="/Assets/Fonts/" exported="true"/>
+    <font id="lnng49" name="Font6.fnt" path="/Assets/Fonts/" exported="true"/>
+    <image id="lnng4a" name="10.png" path="/Assets/Hunter/炮台金币数字/"/>
+    <component id="lnng4b" name="SelectPanel.xml" path="/Components/AutoAttackPanel/"/>
+    <image id="lnng4c" name="gb.png" path="/Assets/Hunter/"/>
+    <component id="lnng4d" name="ReSelectBtn.xml" path="/Components/AutoAttackPanel/"/>
+    <component id="lnng4f" name="SelectAllBtn.xml" path="/Components/AutoAttackPanel/"/>
+    <component id="lnng4g" name="StartHuntBtn.xml" path="/Components/AutoAttackPanel/"/>
+    <component id="lnng4h" name="LoadLastSetBtn.xml" path="/Components/AutoAttackPanel/"/>
+    <component id="lnng4i" name="HuntedPanel.xml" path="/Components/AutoAttackPanel/"/>
+    <component id="lnng4j" name="ChangeBtn.xml" path="/Components/AutoAttackPanel/"/>
+    <component id="lnng4k" name="CancelBtn.xml" path="/Components/AutoAttackPanel/"/>
+    <image id="lnng4l" name="qxzd_.png" path="/Assets/Hunter/CN/"/>
+    <component id="lnng4m" name="HuntedItem.xml" path="/Components/AutoAttackPanel/"/>
+    <component id="lnng5g" name="SelectItem.xml" path="/Components/AutoAttackPanel/"/>
+    <component id="lnng5i" name="ToggleBtn.xml" path="/Components/AutoAttackPanel/"/>
+    <component id="m1lh5j" name="AutoAttackPanel.xml" path="/Components/AutoAttackPanel/" exported="true"/>
+    <component id="m1lh5k" name="CloseBtn.xml" path="/Components/AutoAttackPanel/"/>
+    <image id="m1lh5l" name="n1.png" path="/"/>
+    <component id="l7h35m" name="CannonPanel.xml" path="/Components/HuntePanel/"/>
+    <image id="gjrk5o" name="CoinImg.png" path="/"/>
+    <component id="tywn5p" name="HuntAwardPanel.xml" path="/Components/HuntePanel/"/>
+    <image id="orcv5q" name="ing_3d.png" path="/Assets/Hunter/UI/"/>
+    <image id="orcv5r" name="ing_5.png" path="/Assets/Hunter/UI/"/>
+    <image id="orcv5s" name="jp_kuang.png" path="/Assets/Hunter/"/>
+    <image id="orcv5t" name="JACKPOT.png" path="/Assets/Hunter/"/>
+    <component id="orcv5u" name="jpCom.xml" path="/Assets/Hunter/"/>
+    <image id="orcv5v" name="..png" path="/Assets/Fonts/playCoinFont/"/>
+    <image id="orcv5w" name="jb_,.png" path="/Assets/Fonts/playCoinFont/"/>
+    <image id="orcv5x" name="jb_0.png" path="/Assets/Fonts/playCoinFont/"/>
+    <image id="orcv5y" name="jb_1.png" path="/Assets/Fonts/playCoinFont/"/>
+    <image id="orcv5z" name="jb_2.png" path="/Assets/Fonts/playCoinFont/"/>
+    <image id="orcv60" name="jb_3.png" path="/Assets/Fonts/playCoinFont/"/>
+    <image id="orcv61" name="jb_4.png" path="/Assets/Fonts/playCoinFont/"/>
+    <image id="orcv62" name="jb_5.png" path="/Assets/Fonts/playCoinFont/"/>
+    <image id="orcv63" name="jb_6.png" path="/Assets/Fonts/playCoinFont/"/>
+    <image id="orcv64" name="jb_7.png" path="/Assets/Fonts/playCoinFont/"/>
+    <image id="orcv65" name="jb_8.png" path="/Assets/Fonts/playCoinFont/"/>
+    <image id="orcv66" name="jb_9.png" path="/Assets/Fonts/playCoinFont/"/>
+    <font id="orcv67" name="Font7.fnt" path="/Assets/Fonts/playCoinFont/" exported="true"/>
+    <image id="orcv68" name="jp_0-9_0.png" path="/Assets/Fonts/playJpFont/"/>
+    <image id="orcv69" name="jp_0-9_1.png" path="/Assets/Fonts/playJpFont/"/>
+    <image id="orcv6a" name="jp_0-9_2.png" path="/Assets/Fonts/playJpFont/"/>
+    <image id="orcv6b" name="jp_0-9_3.png" path="/Assets/Fonts/playJpFont/"/>
+    <image id="orcv6c" name="jp_0-9_4.png" path="/Assets/Fonts/playJpFont/"/>
+    <image id="orcv6d" name="jp_0-9_5.png" path="/Assets/Fonts/playJpFont/"/>
+    <image id="orcv6e" name="jp_0-9_6.png" path="/Assets/Fonts/playJpFont/"/>
+    <image id="orcv6f" name="jp_0-9_7.png" path="/Assets/Fonts/playJpFont/"/>
+    <image id="orcv6g" name="jp_0-9_8.png" path="/Assets/Fonts/playJpFont/"/>
+    <image id="orcv6h" name="jp_0-9_9.png" path="/Assets/Fonts/playJpFont/"/>
+    <font id="orcv6i" name="playJpFont.fnt" path="/Assets/Fonts/playJpFont/" exported="true"/>
+    <image id="orcv6j" name="..png" path="/Assets/Fonts/playJpFont/"/>
+    <image id="mor26k" name="0.png" path="/Assets/Fonts/coinFloatFont/"/>
+    <image id="mor26l" name="1.png" path="/Assets/Fonts/coinFloatFont/"/>
+    <image id="mor26m" name="2.png" path="/Assets/Fonts/coinFloatFont/"/>
+    <image id="mor26n" name="3.png" path="/Assets/Fonts/coinFloatFont/"/>
+    <image id="mor26o" name="4.png" path="/Assets/Fonts/coinFloatFont/"/>
+    <image id="mor26p" name="5.png" path="/Assets/Fonts/coinFloatFont/"/>
+    <image id="mor26q" name="6.png" path="/Assets/Fonts/coinFloatFont/"/>
+    <image id="mor26r" name="7.png" path="/Assets/Fonts/coinFloatFont/"/>
+    <image id="mor26s" name="8.png" path="/Assets/Fonts/coinFloatFont/"/>
+    <image id="mor26t" name="9.png" path="/Assets/Fonts/coinFloatFont/"/>
+    <image id="mor26u" name="..png" path="/Assets/Fonts/coinFloatFont/"/>
+    <image id="mor26v" name="+.png" path="/Assets/Fonts/coinFloatFont/"/>
+    <image id="mor26w" name="-.png" path="/Assets/Fonts/coinFloatFont/"/>
+    <font id="mor2i" name="coinFloatFont.fnt" path="/Assets/Fonts/coinFloatFont/" exported="true"/>
+    <image id="rhk26x" name="免转入口-捕猎.png" path="/Assets/Hunter/"/>
+    <component id="rhk26z" name="walletBtn.xml" path="/Components/HuntePanel/"/>
+  </resources>
+  <publish name="HunterUI"/>
+</packageDescription>

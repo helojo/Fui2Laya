@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="8a6sre6e" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="pmlt0" name="btn_1.png" path="/sprite_public/"/>
+    <image id="pmlt2" name="lv.png" path="/sprite_public/"/>
+    <image id="pmlt5" name="tiaofu.png" path="/sprite_public/"/>
+    <component id="pmlt6" name="upgradeCom.xml" path="/" exported="true"/>
+    <image id="pmlt7" name="0.png" path="/Font/shuzi0-9/"/>
+    <image id="pmlt8" name="1.png" path="/Font/shuzi0-9/"/>
+    <image id="pmlt9" name="2.png" path="/Font/shuzi0-9/"/>
+    <image id="pmlta" name="3.png" path="/Font/shuzi0-9/"/>
+    <image id="pmltb" name="4.png" path="/Font/shuzi0-9/"/>
+    <image id="pmltc" name="5.png" path="/Font/shuzi0-9/"/>
+    <image id="pmltd" name="6.png" path="/Font/shuzi0-9/"/>
+    <image id="pmlte" name="7.png" path="/Font/shuzi0-9/"/>
+    <image id="pmltf" name="8.png" path="/Font/shuzi0-9/"/>
+    <image id="pmltg" name="9.png" path="/Font/shuzi0-9/"/>
+    <font id="pmlth" name="Font1.fnt" path="/Font/shuzi0-9/" exported="true"/>
+    <component id="pmlti" name="Button1.xml" path="/button/"/>
+    <image id="pmltj" name="0.png" path="/Font/djs/"/>
+    <image id="pmltk" name="1.png" path="/Font/djs/"/>
+    <image id="pmltl" name="2.png" path="/Font/djs/"/>
+    <image id="pmltm" name="3.png" path="/Font/djs/"/>
+    <image id="pmltn" name="4.png" path="/Font/djs/"/>
+    <image id="pmlto" name="5.png" path="/Font/djs/"/>
+    <image id="pmltp" name="6.png" path="/Font/djs/"/>
+    <image id="pmltq" name="7.png" path="/Font/djs/"/>
+    <image id="pmltr" name="8.png" path="/Font/djs/"/>
+    <image id="pmlts" name="9.png" path="/Font/djs/"/>
+    <font id="pmltt" name="Font2.fnt" path="/Font/djs/" exported="true"/>
+    <image id="pmltu" name="sj_00.png" path="/Ani/shengji/"/>
+    <image id="pmltv" name="sj_01.png" path="/Ani/shengji/"/>
+    <image id="pmltw" name="sj_02.png" path="/Ani/shengji/"/>
+    <image id="pmltx" name="sj_03.png" path="/Ani/shengji/"/>
+    <image id="pmlty" name="sj_04.png" path="/Ani/shengji/"/>
+    <image id="pmltz" name="sj_05.png" path="/Ani/shengji/"/>
+    <image id="pmlt10" name="sj_06.png" path="/Ani/shengji/"/>
+    <image id="pmlt11" name="sj_07.png" path="/Ani/shengji/"/>
+    <image id="pmlt12" name="sj_08.png" path="/Ani/shengji/"/>
+    <image id="pmlt13" name="sj_09.png" path="/Ani/shengji/"/>
+    <image id="pmlt14" name="sj_10.png" path="/Ani/shengji/"/>
+    <image id="pmlt15" name="sj_11.png" path="/Ani/shengji/"/>
+    <image id="pmlt16" name="sj_12.png" path="/Ani/shengji/"/>
+    <image id="pmlt17" name="sj_13.png" path="/Ani/shengji/"/>
+    <image id="pmlt18" name="sj_14.png" path="/Ani/shengji/"/>
+    <image id="pmlt19" name="sj_15.png" path="/Ani/shengji/"/>
+    <image id="pmlt1a" name="sj_16.png" path="/Ani/shengji/"/>
+    <movieclip id="pmlt1b" name="MovieClip1.jta" path="/Ani/shengji/"/>
+  </resources>
+  <publish name="upgradePanel"/>
+</packageDescription>

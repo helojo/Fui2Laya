@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="90,90" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_nlmz" name="n0" src="nlmz2v" fileName="sprite_public/czjj.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <loader id="n1_p3pk" name="loadName" xy="21,64" size="50,50" url="ui://41a1co2bnlmz2u" align="center"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="1.10"/>
+</component>

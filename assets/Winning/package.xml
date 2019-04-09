@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="tbr0bluo" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="sq0l0" name="winningPanel.xml" path="/" exported="true"/>
+    <image id="sq0l1" name="di.png" path="/sprite_Public/"/>
+    <image id="sq0l3" name="guang.png" path="/sprite_Public/"/>
+    <image id="sq0l7" name="txg.png" path="/sprite_Public/"/>
+    <image id="sq0l9" name="zjk.png" path="/sprite_Public/"/>
+    <image id="sq0la" name="shuzi_1.png" path="/jpNum/"/>
+    <image id="sq0lb" name="shuzi_2.png" path="/jpNum/"/>
+    <image id="sq0lc" name="shuzi_3.png" path="/jpNum/"/>
+    <image id="sq0ld" name="shuzi_4.png" path="/jpNum/"/>
+    <image id="sq0le" name="shuzi_5.png" path="/jpNum/"/>
+    <image id="sq0lf" name="shuzi_6.png" path="/jpNum/"/>
+    <image id="sq0lg" name="shuzi_7.png" path="/jpNum/"/>
+    <image id="sq0lh" name="shuzi_8.png" path="/jpNum/"/>
+    <image id="sq0li" name="shuzi_9.png" path="/jpNum/"/>
+    <image id="sq0lj" name="shuzi_0.png" path="/jpNum/"/>
+    <image id="sq0lk" name="shuzi_+.png" path="/jpNum/"/>
+    <font id="sq0ll" name="jpFont.fnt" path="/jpNum/" exported="true"/>
+    <image id="mor2m" name="..png" path="/jpNum/"/>
+  </resources>
+  <publish name="Winning"/>
+</packageDescription>

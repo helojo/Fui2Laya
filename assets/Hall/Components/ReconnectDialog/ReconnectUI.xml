@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <graph id="n1_j3au" name="n1" xy="0,0" size="1280,720" alpha="0.6" type="rect" fillColor="#ff000000"/>
+    <image id="n0_j3au" name="n0" src="j3au7x" fileName="Sprite/ReconnectUI.png" xy="640,360" pivot="0.5,0.5" anchor="true"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Rotation" target="n0_j3au" label="Reconnect" tween="true" startValue="0" endValue="360" duration="18" ease="Linear" repeat="-1"/>
+  </transition>
+</component>

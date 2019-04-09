@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="49w9ix6t" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="p3pk31" name="growthFund.png" path="/sprite_en/" exported="true"/>
+    <image id="p3pk32" name="levelBonus.png" path="/sprite_en/" exported="true"/>
+    <image id="p3pk33" name="rate1.png" path="/sprite_en/" exported="true"/>
+    <image id="p3pk34" name="rate2.png" path="/sprite_en/" exported="true"/>
+    <image id="p3pk35" name="rate3.png" path="/sprite_en/" exported="true"/>
+    <image id="p3pk36" name="bulletHead.png" path="/sprite_en/" exported="true"/>
+    <image id="p3pk37" name="fastGame.png" path="/sprite_en/" exported="true"/>
+    <image id="p3pk38" name="help.png" path="/sprite_en/" exported="true"/>
+    <image id="p3pk39" name="rank.png" path="/sprite_en/" exported="true"/>
+    <image id="p3pk3a" name="report.png" path="/sprite_en/" exported="true"/>
+    <image id="p3pk3b" name="return.png" path="/sprite_en/" exported="true"/>
+    <image id="p3pk3c" name="set.png" path="/sprite_en/" exported="true"/>
+    <image id="p3pk3d" name="name2.png" path="/sprite_en/" exported="true"/>
+    <image id="p3pk3e" name="name3.png" path="/sprite_en/" exported="true"/>
+    <image id="p3pk3f" name="name1.png" path="/sprite_en/" exported="true"/>
+  </resources>
+  <publish name="HallUIEn"/>
+</packageDescription>

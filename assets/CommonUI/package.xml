@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="uwx8lkd6" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="l9afv" name="15.png" path="/Fish/" exported="true"/>
+    <image id="l9afw" name="16.png" path="/Fish/" exported="true"/>
+    <image id="l9afx" name="17.png" path="/Fish/" exported="true"/>
+    <image id="l9afy" name="18.png" path="/Fish/" exported="true"/>
+    <image id="l9afz" name="19.png" path="/Fish/" exported="true"/>
+    <image id="l9af10" name="20.png" path="/Fish/" exported="true"/>
+    <image id="l9af11" name="21.png" path="/Fish/" exported="true"/>
+    <image id="l9af12" name="22.png" path="/Fish/" exported="true"/>
+    <image id="l9af13" name="23.png" path="/Fish/" exported="true"/>
+    <image id="l9af14" name="24.png" path="/Fish/" exported="true"/>
+    <image id="l9af17" name="32.png" path="/Fish/" exported="true"/>
+    <image id="l9af18" name="27.png" path="/Fish/" exported="true"/>
+    <image id="l9af19" name="1.png" path="/Fish/" exported="true"/>
+    <image id="l9af1a" name="2.png" path="/Fish/" exported="true"/>
+    <image id="l9af1b" name="3.png" path="/Fish/" exported="true"/>
+    <image id="l9af1c" name="4.png" path="/Fish/" exported="true"/>
+    <image id="l9af1d" name="5.png" path="/Fish/" exported="true"/>
+    <image id="l9af1e" name="6.png" path="/Fish/" exported="true"/>
+    <image id="l9af1f" name="7.png" path="/Fish/" exported="true"/>
+    <image id="l9af1g" name="8.png" path="/Fish/" exported="true"/>
+    <image id="l9af1h" name="9.png" path="/Fish/" exported="true"/>
+    <image id="l9af1i" name="10.png" path="/Fish/" exported="true"/>
+    <image id="l9af1j" name="11.png" path="/Fish/" exported="true"/>
+    <image id="l9af1k" name="12.png" path="/Fish/" exported="true"/>
+    <image id="l9af1l" name="13.png" path="/Fish/" exported="true"/>
+    <image id="l9af1m" name="14.png" path="/Fish/" exported="true"/>
+    <image id="tpjr1n" name="26.png" path="/Fish/" exported="true"/>
+    <image id="tpjr1o" name="25.png" path="/Fish/" exported="true"/>
+  </resources>
+  <publish name="CommonUI"/>
+</packageDescription>

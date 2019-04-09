@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="gqzsfv5o" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="km3c0" name="warningPanel.xml" path="/" exported="true"/>
+    <image id="km3c5" name="warn23.png" path="/" exported="true"/>
+    <image id="km3c6" name="warn0.png" path="/" exported="true"/>
+    <image id="km3ca" name="fish23.png" path="/" exported="true"/>
+    <image id="ll0xb" name="warn26.png" path="/" exported="true"/>
+    <image id="ll0xc" name="warn25.png" path="/" exported="true"/>
+    <image id="ll0xd" name="fish25.png" path="/" exported="true"/>
+    <image id="ll0xe" name="fish26.png" path="/" exported="true"/>
+    <image id="tpjrf" name="img_tiao_.png" path="/"/>
+  </resources>
+  <publish name="Warning"/>
+</packageDescription>

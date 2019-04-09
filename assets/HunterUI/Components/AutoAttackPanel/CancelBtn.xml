@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="117,54" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n2_lnng" name="n2" src="e7951g" fileName="Assets/Hunter/qxzd.png" xy="0,0"/>
+    <image id="n3_lnng" name="n3" src="lnng4l" fileName="Assets/Hunter/qxzd_.png" xy="16,17"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="1.10"/>
+</component>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <graph id="n0_sq0l" name="n0" xy="0,0" size="1280,720" alpha="0.5" type="rect" fillColor="#ff000000"/>
+    <image id="n3_sq0l" name="n3" src="sq0l3" fileName="sprite_Public/guang.png" xy="500,89" pivot="0.5,0.5"/>
+    <image id="n1_sq0l" name="n1" src="sq0l9" fileName="sprite_Public/zjk.png" xy="0,261" pivot="0.5,0.5"/>
+    <loader id="n2_sq0l" name="gxzj" xy="363,200" pivot="0.5,0.5" size="565,91" url="ui://881mnxb9sq0l4"/>
+    <image id="n4_sq0l" name="n4" src="sq0l1" fileName="sprite_Public/di.png" xy="403,428"/>
+    <text id="n6_sq0l" name="clipText" xy="402,430" pivot="0.5,0.5" size="513,45" font="ui://tbr0bluosq0ll" fontSize="12" align="center" vAlign="middle" autoSize="none" text="+123.66"/>
+    <loader id="n9_sq0l" name="GradeLoader" xy="538,321" pivot="0.5,0.5" size="230,80" url="ui://881mnxb9sq0l8"/>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="0">
+    <item time="0" type="Alpha" target="n6_sq0l" value="0"/>
+    <item time="0" type="Rotation" target="n3_sq0l" tween="true" startValue="0" endValue="360" duration="60" ease="Linear" repeat="-1"/>
+    <item time="0" type="Scale" target="n1_sq0l" tween="true" startValue="0,0" endValue="1,1" duration="3"/>
+    <item time="0" type="Scale" target="n2_sq0l" tween="true" startValue="0,0" endValue="0.2,0.2" duration="5" ease="Linear"/>
+    <item time="0" type="Scale" target="n3_sq0l" tween="true" startValue="0,0" endValue="1,1" duration="7"/>
+    <item time="0" type="Scale" target="n9_sq0l" value="0,0"/>
+    <item time="0" type="XY" target="n9_sq0l" value="538,321"/>
+    <item time="5" type="Scale" target="n2_sq0l" tween="true" startValue="0.2,0.2" endValue="1,1" duration="2"/>
+    <item time="7" type="Scale" target="n9_sq0l" value="0,0"/>
+    <item time="12" type="Scale" target="n9_sq0l" tween="true" startValue="0.5,0.5" endValue="1,1" duration="6"/>
+    <item time="12" type="XY" target="n9_sq0l" tween="true" startValue="529,202" endValue="538,321" duration="5"/>
+    <item time="13" type="Alpha" target="n6_sq0l" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="60" type="Rotation" target="n3_sq0l" tween="true" startValue="360" ease="Linear" repeat="-1"/>
+  </transition>
+</component>

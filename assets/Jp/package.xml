@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="t339maa2" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="sq0l0" name="dingbu.png" path="/sprite_public/"/>
+    <image id="sq0l1" name="gb.png" path="/sprite_public/"/>
+    <image id="sq0l2" name="jp_line.png" path="/sprite_public/"/>
+    <component id="sq0l8" name="jpPanel.xml" path="/" exported="true"/>
+    <image id="sq0l9" name="dikuang.png" path="/sprite_public/"/>
+    <component id="sq0la" name="Item.xml" path="/" exported="true"/>
+    <component id="sq0lb" name="Button1.xml" path="/button/"/>
+  </resources>
+  <publish name="Jp"/>
+</packageDescription>

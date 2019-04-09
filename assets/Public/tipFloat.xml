@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720" opaque="false">
+  <displayList>
+    <image id="n0_f7x7" name="n0" src="f7x75" fileName="notEnoughBg.png" xy="354,347" group="n2_f7x7"/>
+    <text id="n1_f7x7" name="text" xy="116,359" size="1066,40" group="n2_f7x7" font="SimHei" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" autoSize="none" bold="true" text="已完成任务新游戏：捕鱼来了3D，累计有"/>
+    <group id="n2_f7x7" name="n2" xy="116,347" size="1066,59" advanced="true"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n2_f7x7" tween="true" startValue="0" endValue="1" duration="18"/>
+    <item time="0" type="XY" target="n2_f7x7" tween="true" startValue="116,347" endValue="116,205" duration="30"/>
+    <item time="18" type="Alpha" target="n2_f7x7" tween="true" startValue="1" endValue="1" duration="12"/>
+    <item time="30" type="Alpha" target="n2_f7x7" tween="true" startValue="1" endValue="0" duration="18"/>
+    <item time="30" type="XY" target="n2_f7x7" tween="true" startValue="116,205"/>
+  </transition>
+  <transition name="t1"/>
+</component>

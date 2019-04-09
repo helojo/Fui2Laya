@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="929,39" scroll="horizontal">
+  <displayList>
+    <richtext id="n3_tt6b" name="n3" xy="-1,6" size="10,29" font="SimHei" fontSize="25" color="#ffffff" vAlign="middle" ubb="true" singleLine="true" text=""/>
+    <text id="n14_621l" name="Text" xy="1,6" size="56,29" font="SimHei" fontSize="25" color="#ffffff" vAlign="middle" ubb="true" autoSize="none" text="测试"/>
+  </displayList>
+</component>

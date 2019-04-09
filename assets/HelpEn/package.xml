@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="agdgw4at" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="gbivv" name="help.png" path="/sprite_en/" exported="true"/>
+    <image id="gbivy" name="tejipao.png" path="/sprite_en/" exported="true"/>
+    <image id="gbivz" name="wanfashuoming.png" path="/sprite_en/" exported="true"/>
+    <image id="gbiv10" name="wanfashuoming_.png" path="/sprite_en/" exported="true"/>
+    <image id="gbiv12" name="yuleijieshao.png" path="/sprite_en/" exported="true"/>
+    <image id="gbiv13" name="yuleijieshao_.png" path="/sprite_en/" exported="true"/>
+    <image id="gbiv14" name="paotaijieshao.png" path="/sprite_en/" exported="true"/>
+    <image id="gbiv15" name="paotaijieshao_.png" path="/sprite_en/" exported="true"/>
+    <image id="gbiv16" name="paotai_2.png" path="/sprite_en/" exported="true"/>
+    <image id="gbiv17" name="btp.png" path="/sprite_en/" exported="true"/>
+    <image id="gbiv1b" name="paotai_1.png" path="/sprite_en/" exported="true"/>
+    <image id="gbiv1c" name="paotai_3.png" path="/sprite_en/" exported="true"/>
+    <image id="gbiv1d" name="gjp.png" path="/sprite_en/" exported="true"/>
+    <image id="gbiv0" name="bz.png" path="/sprite_en/" exported="true"/>
+  </resources>
+  <publish name="HelpEn"/>
+</packageDescription>

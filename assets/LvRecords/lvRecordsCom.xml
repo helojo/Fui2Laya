@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <image id="n0_hrkn" name="n0" src="hrkn7" fileName="sprite_Public/lingqujilu_1.png" xy="264,167"/>
+    <image id="n1_hrkn" name="n1" src="hrkn1" fileName="sprite_Public/huodongshuoming_2.png" xy="347,120"/>
+    <loader id="n2_hrkn" name="jysj" xy="837,250" size="82,23" url="ui://85r285qahrkn5" align="center" vAlign="middle"/>
+    <loader id="n3_hrkn" name="lqdj" xy="313,250" pivot="1,1" size="82,24" url="ui://8f9wb7bgji91g" vAlign="middle"/>
+    <loader id="n4_hrkn" name="lqje" xy="419,250" size="83,24" url="ui://8f9wb7bgji91f" align="center" vAlign="middle"/>
+    <loader id="n5_hrkn" name="lqju" xy="562,135" size="185,50" url="ui://85r285qahrkn8" align="center" vAlign="middle"/>
+    <loader id="n6_hrkn" name="zdh" xy="619,250" size="62,23" url="ui://85r285qahrkn6" align="center" vAlign="middle"/>
+    <component id="n7_hrkn" name="closeBtn" src="hrkn9" fileName="Button/Button1.xml" xy="993,159"/>
+    <list id="n8_hrkn" name="infoList" xy="315,285" size="684,300" overflow="scroll" defaultItem="ui://xorse1j3hrknb">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

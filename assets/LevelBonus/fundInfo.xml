@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="454,50">
+  <displayList>
+    <image id="n15_hrkn" name="n15" src="hrkn6" fileName="Sprite/fengexian.png" xy="0,48"/>
+    <text id="n16_hrkn" name="lvTex" xy="19,7" size="86,41" font="Arial" fontSize="25" color="#ac4f18" align="center" vAlign="middle" autoSize="none" bold="true" text="LV2"/>
+    <text id="n17_hrkn" name="expTex" xy="107,8" size="204,40" font="Arial" fontSize="25" color="#ac4f18" align="center" vAlign="middle" autoSize="none" bold="true" text="123456789101"/>
+    <text id="n18_hrkn" name="awardTex" xy="311,9" size="125,39" font="Arial" fontSize="25" color="#ac4f18" align="center" vAlign="middle" autoSize="none" bold="true" text="4800"/>
+  </displayList>
+</component>

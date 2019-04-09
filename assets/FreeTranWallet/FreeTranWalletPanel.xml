@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <graph id="n1_b0xo" name="n1" xy="0,0" size="1280,720" alpha="0.5" type="rect" fillColor="#ff000000"/>
+    <image id="n0_b0xo" name="bg" src="b0xo6" fileName="floor.png" xy="237,100" pivot="0.5,0.5"/>
+    <image id="n2_b0xo" name="tig" src="b0xol" fileName="tig.png" xy="303,100"/>
+    <image id="n4_b0xo" name="n4" src="b0xo12" fileName="selectedAmount.png" xy="578,123"/>
+    <image id="n5_b0xo" name="n5" src="b0xoc" fileName="playerAccount.png" xy="490,199"/>
+    <image id="n6_b0xo" name="n6" src="b0xo3" fileName="centerWallet.png" xy="493,252"/>
+    <image id="n7_b0xo" name="n7" src="b0xo5" fileName="fgWallet.png" xy="512,304"/>
+    <text id="n8_b0xo" name="playAccText" xy="632,184" size="341,57" font="Arial" fontSize="30" color="#ffffff" vAlign="middle" autoSize="none" text="djjjjjjjpp"/>
+    <text id="n9_b0xo" name="fgWalletText" xy="632,300" size="341,41" font="Arial" fontSize="30" color="#ffffff" vAlign="middle" autoSize="none" text="1111000000.34"/>
+    <text id="n10_b0xo" name="certerWalletText" xy="632,250" size="341,39" font="Arial" fontSize="30" color="#ffffff" vAlign="middle" autoSize="none" text="111000.23"/>
+    <image id="n11_b0xo" name="n11" src="b0xo1" fileName="addTo.png" xy="390,368"/>
+    <image id="n12_b0xo" name="n12" src="b0xog" fileName="slider.png" xy="556,360"/>
+    <component id="n14_b0xo" name="subBut" src="b0xo15" fileName="Button1.xml" xy="293,430"/>
+    <component id="n15_b0xo" name="addBut" src="b0xo16" fileName="Button2.xml" xy="945,428"/>
+    <component id="n16_b0xo" name="startBut" src="b0xo17" fileName="StartGame.xml" xy="546,569"/>
+    <component id="n17_twtn" name="autoAddBut" src="twtn18" fileName="Button3.xml" xy="508,513"/>
+    <image id="n18_twtn" name="n18" src="b0xo8" fileName="insufficientAmount.png" xy="551,513"/>
+    <component id="n19_twtn" name="close" src="twtn19" fileName="Button4.xml" xy="1004,89"/>
+    <text id="n21_twtn" name="input" xy="560,367" pivot="0.5,0.5" size="338,34" input="true" prompt="请输入金额" restrict="[0-9]" keyboardType="2" font="Arial" fontSize="30" color="#ffffff" vAlign="middle" autoSize="none" text="1111000.25"/>
+    <component id="n25_wwpe" name="keyBtn" src="wwpe1h" fileName="Button5.xml" xy="556,362" size="346,41" alpha="0.01"/>
+    <component id="n22_mhte" name="walletSli" src="mhte1g" fileName="Slider2.xml" xy="384,447">
+      <Slider max="100"/>
+    </component>
+    <text id="n24_wwpe" name="keyText" xy="559,367" pivot="0.5,0.5" size="338,34" font="Arial" fontSize="30" color="#ffffff" vAlign="middle" autoSize="none" text="1111000.25"/>
+  </displayList>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="115,131">
+  <displayList>
+    <component id="n61_nlmz" name="lvBtn" src="nlmz2y" fileName="button/Button13.xml" xy="4,33"/>
+    <image id="n65_nlmz" name="lvNew" src="nlmz2w" fileName="sprite_public/NEW.png" xy="1,0"/>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Alpha" target="n65_nlmz" tween="true" startValue="0.5" endValue="1" duration="24" ease="Quad.InOut" repeat="-1" yoyo="true"/>
+    <item time="24" type="Alpha" target="n65_nlmz" tween="true" startValue="1" ease="Quad.InOut" repeat="-1" yoyo="true"/>
+  </transition>
+</component>

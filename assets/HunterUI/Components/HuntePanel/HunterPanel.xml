@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720" opaque="false" adaptationTest="FitSize">
+  <controller name="c1" pages="0,,1,,4,,5," selected="0"/>
+  <displayList>
+    <component id="n5_cajl" name="Menu" src="e7951" fileName="Components/HuntePanel/Menu.xml" xy="-99,152">
+      <gearDisplay controller="c1" pages="0,1,4,5"/>
+      <gearXY controller="c1" pages="0,4,5" values="-99,152|-55,152|40,152" default="-5,152" tween="true"/>
+    </component>
+    <component id="n6_cajl" name="LockBtn" src="e795e" fileName="Components/HuntePanel/LockBtn.xml" xy="1129,220"/>
+    <component id="n7_cajl" name="AutoBtn" src="e795h" fileName="Components/HuntePanel/AutoBtn.xml" xy="1129,376"/>
+    <loader id="n8_cajl" name="LockImg" xy="1171,324" pivot="0.5,0.5" anchor="true" size="83,24" visible="false" url="ui://kdym4vsbe7951i" align="center" vAlign="middle"/>
+    <loader id="n9_cajl" name="AutoImg" xy="1173,482" pivot="0.5,0.5" anchor="true" size="80,24" visible="false" url="ui://kdym4vsbe7951m" align="center" vAlign="middle"/>
+    <component id="n10_cajl" name="Cannon0" src="e795k" fileName="Components/HuntePanel/Cannon.xml" xy="249,587"/>
+    <component id="n11_cajl" name="Cannon1" src="e795k" fileName="Components/HuntePanel/Cannon.xml" xy="775,585"/>
+    <component id="n12_cajl" name="Cannon2" src="e795k" fileName="Components/HuntePanel/Cannon.xml" xy="249,-1"/>
+    <component id="n13_cajl" name="Cannon3" src="e795k" fileName="Components/HuntePanel/Cannon.xml" xy="775,-4"/>
+    <image id="n14_cajl" name="WaitImg0" src="e795r" fileName="Assets/Hunter/btn_ddjr.png" xy="291,661" size="154,59" aspect="true"/>
+    <image id="n15_cajl" name="WaitImg1" src="e795r" fileName="Assets/Hunter/btn_ddjr.png" xy="821,663" size="154,59" aspect="true"/>
+    <image id="n16_cajl" name="WaitImg2" src="e795r" fileName="Assets/Hunter/btn_ddjr.png" xy="290,0" size="154,59" aspect="true"/>
+    <image id="n17_cajl" name="WaitImg3" src="e795r" fileName="Assets/Hunter/btn_ddjr.png" xy="821,0" size="154,59" aspect="true"/>
+    <component id="n18_e2q9" name="CannonInfo0" src="d65k1n" fileName="Components/HuntePanel/CannonInfo.xml" xy="32,618"/>
+    <component id="n19_e2q9" name="CannonInfo1" src="d65k1n" fileName="Components/HuntePanel/CannonInfo.xml" xy="1026,622"/>
+    <component id="n20_e2q9" name="CannonInfo2" src="d65k1n" fileName="Components/HuntePanel/CannonInfo.xml" xy="32,0"/>
+    <component id="n21_e2q9" name="CannonInfo3" src="d65k1n" fileName="Components/HuntePanel/CannonInfo.xml" xy="1026,0"/>
+    <image id="n23_q4k8" name="LockDownImg" src="e795g" fileName="Assets/Hunter/lock_down.png" xy="1172,256" pivot="0.5,0.5" anchor="true"/>
+    <image id="n24_q4k8" name="AutoDownImg" src="e795j" fileName="Assets/Hunter/auto_down.png" xy="1172,417" pivot="0.5,0.5" anchor="true"/>
+    <component id="n25_orcv" name="jp" src="orcv5u" fileName="Assets/Hunter/jpCom.xml" xy="493,33"/>
+  </displayList>
+</component>

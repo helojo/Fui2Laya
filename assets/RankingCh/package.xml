@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="a9xzwem1" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="cn060" name="benzhou.png" path="/sprite_ch/" exported="true"/>
+    <image id="cn061" name="benzhou_down.png" path="/sprite_ch/" exported="true"/>
+    <image id="o8sx12" name="phb.png" path="/sprite_ch/" exported="true"/>
+    <image id="cn06c" name="shangzhou.png" path="/sprite_ch/" exported="true"/>
+    <image id="cn06d" name="shangzhou_down.png" path="/sprite_ch/" exported="true"/>
+    <image id="cn06g" name="wsb.png" path="/sprite_ch/" exported="true"/>
+  </resources>
+  <publish name="RankingCh"/>
+</packageDescription>

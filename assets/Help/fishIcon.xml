@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="154,93">
+  <displayList>
+    <image id="n0_v4db" name="n0" src="lqxco" fileName="yulei_kuang_4.png" xy="0,0"/>
+    <loader id="n5_v4db" name="fishIcon" xy="2,4" size="149,86"/>
+    <text id="n3_v4db" name="fishValue" xy="58,55" size="93,39" font="DengXian" fontSize="22" color="#ffffcc" align="center" vAlign="middle" letterSpacing="3" autoSize="none" bold="true" strokeColor="#aa440c" text="2.00"/>
+  </displayList>
+</component>

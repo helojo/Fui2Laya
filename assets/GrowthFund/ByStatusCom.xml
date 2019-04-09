@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="220,40">
+  <controller name="c1" pages="0,,1,,2,,3," selected="1"/>
+  <displayList>
+    <component id="n26_nlmz" name="buyBtn" src="nlmz36" fileName="Button/Button4.xml" xy="0,0" size="220,40" alpha="0" touchable="false">
+      <gearDisplay controller="c1" pages="0,1,2,3"/>
+      <gearLook controller="c1" pages="1,2" values="0,0,0,0|0,0,0,0" default="1,0,0,1"/>
+    </component>
+    <loader id="n27_nlmz" name="ing_goumai" xy="84,9" size="49,26" alpha="0" touchable="false" url="ui://80tz54g0nlmzw" align="center" vAlign="middle">
+      <gearDisplay controller="c1" pages="0"/>
+      <gearLook controller="c1" pages="0,1,2,3" values="1,0,0,0|0,0,0,0|0,0,0,0|0,0,0,0"/>
+    </loader>
+    <loader id="n28_nlmz" name="ing_yigoumai" xy="74,9" size="71,26" touchable="false" url="ui://80tz54g0nlmzy" align="center" vAlign="middle">
+      <gearDisplay controller="c1" pages="1"/>
+      <gearLook controller="c1" pages="0,1,2,3" values="1,0,0,0|1,0,0,0|1,0,0,0|1,0,0,0"/>
+    </loader>
+    <loader id="n29_nlmz" name="ing_yishenji" xy="73,8" size="71,27" alpha="0" touchable="false" url="ui://80tz54g0nlmz10" align="center" vAlign="middle">
+      <gearDisplay controller="c1" pages="2"/>
+      <gearLook controller="c1" pages="0,1,2,3" values="1,0,0,0|0,0,0,0|1,0,0,0|0,0,0,0"/>
+    </loader>
+    <loader id="n25_nlmz" name="bcesj" xy="43,8" size="135,27" alpha="0" touchable="false" url="ui://80tz54g0nlmz4" align="center" vAlign="middle">
+      <gearDisplay controller="c1" pages="3"/>
+      <gearLook controller="c1" pages="0,1,2,3" values="1,0,0,0|0,0,0,0|0,0,0,0|1,0,0,0"/>
+    </loader>
+  </displayList>
+  <transition name="t0"/>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="305,99" opaque="false">
+  <displayList>
+    <image id="n25_orcv" name="n25" src="orcv5s" fileName="Assets/Hunter/jp_kuang.png" xy="0,0"/>
+    <image id="n28_orcv" name="n28" src="e79514" fileName="Assets/Hunter/jp_kuang2.png" xy="20,46"/>
+    <image id="n26_orcv" name="n26" src="orcv5t" fileName="Assets/Hunter/JACKPOT.png" xy="62,9"/>
+    <image id="n27_orcv" name="n27" src="lnng2r" fileName="Assets/Hunter/jp_jb.png" xy="33,58"/>
+    <text id="n29_orcv" name="jpNumTex" xy="25,54" size="272,35" font="ui://kdym4vsborcv6i" fontSize="12" align="center" vAlign="middle" letterSpacing="-3" autoSize="none" text="294183.40"/>
+  </displayList>
+</component>

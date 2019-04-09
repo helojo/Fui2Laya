@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="140,58" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_lnng" name="n0" src="e7951g" fileName="Assets/Hunter/qxzd.png" xy="0,0" size="140,60">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_lnng" name="n1" src="e79516" fileName="Assets/Hunter/ksby_.png" xy="13,16"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="1.10"/>
+</component>

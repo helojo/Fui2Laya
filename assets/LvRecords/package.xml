@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="xorse1j3" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="hrkn7" name="lingqujilu_1.png" path="/sprite_Public/"/>
+    <component id="hrkn0" name="lvRecordsCom.xml" path="/" exported="true"/>
+    <image id="hrkn1" name="huodongshuoming_2.png" path="/sprite_Public/"/>
+    <image id="hrkn2" name="gb.png" path="/sprite_Public/"/>
+    <component id="hrkn9" name="Button1.xml" path="/Button/"/>
+    <image id="hrkna" name="fengexian.png" path="/sprite_Public/"/>
+    <component id="hrknb" name="recoreInfoCom.xml" path="/"/>
+  </resources>
+  <publish name="LvRecords"/>
+</packageDescription>

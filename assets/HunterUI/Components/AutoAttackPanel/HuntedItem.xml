@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="271,141">
+  <displayList>
+    <image id="n0_lnng" name="n0" src="e795w" fileName="Assets/Hunter/frame_1.png" xy="0,0" size="271,141"/>
+    <loader id="n1_lnng" name="FishImg" xy="3,27" size="144,87" url="ui://uwx8lkd6l9af17" align="center" vAlign="middle"/>
+    <text id="n2_lnng" name="n2" xy="128,29" size="62,24" font="STZhongsong" fontSize="18" color="#ffffff" vAlign="middle" bold="true" text="数量："/>
+    <text id="n4_lnng" name="n4" xy="128,90" size="62,24" font="STZhongsong" fontSize="18" color="#ffffff" vAlign="middle" bold="true" text="总价："/>
+    <text id="n9_ossh" name="Amount" xy="178,43" pivot="0,0.5" anchor="true" size="85,35" font="STZhongsong" fontSize="18" color="#ffffff" vAlign="middle" autoSize="shrink" bold="true" text="889"/>
+    <text id="n10_ossh" name="Value" xy="178,103" pivot="0,0.5" anchor="true" size="113,34" font="STZhongsong" fontSize="16" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text="23435.00"/>
+  </displayList>
+</component>

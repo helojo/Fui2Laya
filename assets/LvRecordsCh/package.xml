@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="85r285qa" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="hrkn8" name="lqju.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrkn6" name="zdh.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrkn4" name="lqje.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrkn3" name="lqdj.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrkn5" name="jysj.png" path="/sprite_Ch/" exported="true"/>
+  </resources>
+  <publish name="LvRecordsCh"/>
+</packageDescription>

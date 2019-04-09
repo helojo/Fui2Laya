@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="xv6jpn80" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="hrkn0" name="huodongshuoming_1.png" path="/Sprite_Public/"/>
+    <component id="hrkn1" name="lvDetailsCom.xml" path="/" exported="true"/>
+    <image id="hrkn2" name="huodongshuoming_2.png" path="/Sprite_Public/"/>
+    <image id="hrkn5" name="gb.png" path="/Sprite_Public/"/>
+    <component id="hrkn6" name="Button1.xml" path="/Button/"/>
+    <component id="ji919" name="contentCom.xml" path="/"/>
+  </resources>
+  <publish name="LvDetails"/>
+</packageDescription>

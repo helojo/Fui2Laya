@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720" designImage="ui://es4vphr1o8sx8h">
+  <displayList>
+    <component id="n8_o8sx" name="LoadingBar" src="o8sx8g" fileName="LoadingProgressBar.xml" xy="213,607">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <text id="n5_rhk2" name="value" xy="592,667" size="88,24" font="Arial" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="50%"/>
+    <loader id="n7_rhk2" name="loader" xy="608,565" pivot="0.5,0.5" size="50,50" url="ui://es4vphr1rhk282" align="center" vAlign="middle"/>
+  </displayList>
+</component>

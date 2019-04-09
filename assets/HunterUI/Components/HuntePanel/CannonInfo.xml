@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="216,99" opaque="false">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n11_orcv" name="n11" src="lnng3m" fileName="Assets/Hunter/UI/ing_4.png" xy="0,0" size="216,99"/>
+    <image id="n13_orcv" name="n13" src="orcv5r" fileName="Assets/Hunter/UI/ing_5.png" xy="3,60"/>
+    <image id="n14_orcv" name="n14" src="orcv5r" fileName="Assets/Hunter/UI/ing_5.png" xy="4,21"/>
+    <image id="n15_orcv" name="lvIcon" src="d65k1p" fileName="Assets/Hunter/djbs.png" xy="0,15" scale="0.9,0.9"/>
+    <text id="n2_qjoh" name="CoinNumLabel" xy="28,63" size="147,25" font="ui://kdym4vsborcv67" fontSize="12" color="#ffff99" align="center" vAlign="middle" letterSpacing="-2" autoSize="none" text="0"/>
+    <text id="n6_e2q9" name="UserLevelLabel" xy="-7,17" pivot="0.5,0.5" size="53,36" scale="0.7,0.7" font="ui://kdym4vsblnng45" fontSize="12" color="#f7d24d" align="center" vAlign="middle" autoSize="none" text="4">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearXY controller="c1" pages="0,1" values="-7,17|11,20"/>
+    </text>
+    <text id="n9_e2q9" name="UserNameLabel" xy="38,21" size="162,34" font="YouYuan" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="play001"/>
+    <image id="n10_gjrk" name="CoinImg" src="lnng2r" fileName="Assets/Hunter/jp_jb.png" xy="18,75" pivot="0.5,0.5" anchor="true">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearXY controller="c1" pages="0,1" values="18,75|19,76"/>
+    </image>
+    <component id="n16_rhk2" name="walletBtn" src="rhk26z" fileName="Components/HuntePanel/walletBtn.xml" xy="172,55"/>
+  </displayList>
+</component>

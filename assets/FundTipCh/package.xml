@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="8jdro40a" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="hrkn1" name="dqlqje.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrkn8" name="jtbzts.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrknk" name="djjj.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrkni" name="wenzi2.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrknh" name="wenzi1.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrkne" name="sysj.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrknd" name="shhhbss.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrknc" name="qszjj_3.png" path="/sprite_Ch/" exported="true"/>
+  </resources>
+  <publish name="FundTipCh"/>
+</packageDescription>

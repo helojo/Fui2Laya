@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="8mb9d46x" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="ji9138" name="bcesj.png" path="/sprite_En/" exported="true"/>
+    <image id="ji9139" name="bei_1.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913a" name="btn_hdsm.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913b" name="ckdj.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913c" name="czjj.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913d" name="tip1.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913e" name="fanli_1.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913f" name="fanli.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913g" name="grjg.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913h" name="ing_goumai.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913i" name="ing_yigoumai.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913j" name="ing_yishenji.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913k" name="mdyd.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913l" name="mdyd2.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913m" name="tip0.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913n" name="tip3.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913o" name="tip2.png" path="/sprite_En/" exported="true"/>
+    <image id="ji913p" name="huodongshengyu.png" path="/sprite_En/" exported="true"/>
+  </resources>
+  <publish name="GrowthFundEn"/>
+</packageDescription>

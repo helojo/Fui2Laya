@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="19ec9vff" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="nlo90" name="HallPanel.xml" path="/" exported="true"/>
+    <image id="nlo9d" name="按钮.png" path="/sprite_public/"/>
+    <image id="nlo98" name="jyz.png" path="/sprite_public/" scale="tile" scale9grid="16,4,81,5"/>
+    <image id="nlo99" name="jyz_d.png" path="/sprite_public/"/>
+    <image id="nlo9a" name="tip_di.png" path="/sprite_public/"/>
+    <image id="nlo9b" name="txk_01.png" path="/sprite_public/"/>
+    <image id="nlo9c" name="txk_02.png" path="/sprite_public/"/>
+    <component id="nlo93" name="settingBut.xml" path="/button/"/>
+    <component id="nlo94" name="helpBut.xml" path="/button/"/>
+    <component id="nlo95" name="rankBut.xml" path="/button/"/>
+    <component id="nlo96" name="reportBut.xml" path="/button/"/>
+    <component id="nlo97" name="lvProgressBar.xml" path="/"/>
+    <image id="gqp2m" name="jb_k01.png" path="/sprite_public/"/>
+    <image id="gqp2n" name="jb_k02.png" path="/sprite_public/"/>
+    <image id="gqp2o" name="icon.png" path="/sprite_public/"/>
+    <image id="gqp2p" name="jb.png" path="/sprite_public/"/>
+    <image id="gqp2y" name="jt.png" path="/sprite_public/"/>
+    <image id="gqp2z" name="bubble_12.png" path="/sprite_public/"/>
+    <image id="gqp210" name="buyu_jackput01.png" path="/sprite_public/"/>
+    <image id="gqp211" name="buyu_jackput02.png" path="/sprite_public/"/>
+    <image id="gqp212" name="missile.png" path="/sprite_public/"/>
+    <image id="gqp213" name="jackput_saoguang_01.png" path="/jackput_saoguang/"/>
+    <image id="gqp214" name="jackput_saoguang_02.png" path="/jackput_saoguang/"/>
+    <image id="gqp215" name="jackput_saoguang_03.png" path="/jackput_saoguang/"/>
+    <image id="gqp216" name="jackput_saoguang_04.png" path="/jackput_saoguang/"/>
+    <image id="gqp217" name="jackput_saoguang_05.png" path="/jackput_saoguang/"/>
+    <image id="gqp218" name="jackput_saoguang_06.png" path="/jackput_saoguang/"/>
+    <image id="gqp219" name="jackput_saoguang_07.png" path="/jackput_saoguang/"/>
+    <image id="gqp21a" name="jackput_saoguang_08.png" path="/jackput_saoguang/"/>
+    <image id="gqp21b" name="jackput_saoguang_09.png" path="/jackput_saoguang/"/>
+    <image id="gqp21c" name="jackput_saoguang_10.png" path="/jackput_saoguang/"/>
+    <image id="gqp21d" name="jackput_saoguang_11.png" path="/jackput_saoguang/"/>
+    <image id="gqp21e" name="jackput_saoguang_12.png" path="/jackput_saoguang/"/>
+    <image id="gqp21f" name="jackput_saoguang_13.png" path="/jackput_saoguang/"/>
+    <movieclip id="gqp21g" name="jpAni.jta" path="/jackput_saoguang/"/>
+    <image id="gqp21h" name="dj_k.png" path="/sprite_public/"/>
+    <component id="gqp21i" name="Button1.xml" path="/button/"/>
+    <component id="gqp21j" name="Button2.xml" path="/button/"/>
+    <component id="gqp21k" name="Button3.xml" path="/button/"/>
+    <component id="gqp21l" name="Button4.xml" path="/button/"/>
+    <font id="gqp21x" name="jpFont.fnt" path="/jp0-9/" exported="true"/>
+    <component id="gqp21y" name="IslandInfoEffect.xml" path="/" exported="true"/>
+    <component id="gqp21z" name="jpCom.xml" path="/" exported="true"/>
+    <component id="gqp222" name="Button6.xml" path="/button/"/>
+    <image id="gqp224" name="txk_03.png" path="/sprite_public/"/>
+    <image id="gqp225" name="·.png" path="/jp0-9/"/>
+    <image id="gqp226" name="0.png" path="/jp0-9/"/>
+    <image id="gqp227" name="1.png" path="/jp0-9/"/>
+    <image id="gqp228" name="2.png" path="/jp0-9/"/>
+    <image id="gqp229" name="3.png" path="/jp0-9/"/>
+    <image id="gqp22a" name="4.png" path="/jp0-9/"/>
+    <image id="gqp22b" name="5.png" path="/jp0-9/"/>
+    <image id="gqp22c" name="6.png" path="/jp0-9/"/>
+    <image id="gqp22d" name="7.png" path="/jp0-9/"/>
+    <image id="gqp22e" name="8.png" path="/jp0-9/"/>
+    <image id="gqp22f" name="9.png" path="/jp0-9/"/>
+    <image id="iabx2g" name="免转.png" path="/sprite_public/"/>
+    <component id="iabx2h" name="Button7.xml" path="/button/"/>
+    <image id="nff82i" name="icon_di.png" path="/sprite_public/"/>
+    <component id="nlmz2q" name="Button10.xml" path="/button/"/>
+    <component id="nlmz2r" name="Button11.xml" path="/button/"/>
+    <image id="nlmz2s" name="djjj.png" path="/sprite_public/"/>
+    <image id="nlmz2v" name="czjj.png" path="/sprite_public/"/>
+    <image id="nlmz2w" name="NEW.png" path="/sprite_public/"/>
+    <component id="nlmz2x" name="Button12.xml" path="/button/"/>
+    <component id="nlmz2y" name="Button13.xml" path="/button/"/>
+    <component id="nlmz2z" name="GrowthFundCom.xml" path="/" exported="true"/>
+    <component id="nlmz30" name="lvCom.xml" path="/" exported="true"/>
+    <image id="p3pk3g" name="bullet2.png" path="/rate/" exported="true"/>
+    <image id="p3pk3h" name="bullet3.png" path="/rate/" exported="true"/>
+    <image id="p3pk3i" name="butto_di.png" path="/sprite_public/"/>
+    <image id="p3pk3j" name="icon_bb.png" path="/sprite_public/"/>
+    <image id="p3pk3k" name="icon_bz.png" path="/sprite_public/"/>
+    <image id="p3pk3l" name="icon_fh.png" path="/sprite_public/"/>
+    <image id="p3pk3m" name="icon_px.png" path="/sprite_public/"/>
+    <image id="p3pk3n" name="icon_sz.png" path="/sprite_public/"/>
+    <image id="p3pk3o" name="bullet1.png" path="/rate/" exported="true"/>
+  </resources>
+  <publish name="HallUI"/>
+</packageDescription>

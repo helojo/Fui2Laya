@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="8t0x6zml" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="pmlt1" name="fanhui.png" path="/sprite_Ch/" exported="true"/>
+    <image id="pmlt3" name="miao.png" path="/sprite_Ch/" exported="true"/>
+    <image id="pmlt4" name="shengjila.png" path="/sprite_Ch/" exported="true"/>
+  </resources>
+  <publish name="upgradePanelCh"/>
+</packageDescription>

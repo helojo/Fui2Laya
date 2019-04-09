@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <graph id="n9_b7w2" name="n9" xy="0,0" size="1280,720" alpha="0.5" type="rect" fillColor="#ff000000"/>
+    <movieclip id="n7_pmlt" name="n7" src="pmlt1b" fileName="Ani/shengji/MovieClip1.jta" xy="317,21"/>
+    <image id="n1_pmlt" name="n1" src="pmlt5" fileName="sprite_public/tiaofu.png" xy="349,233" pivot="0.5,0" size="624,149"/>
+    <loader id="n2_pmlt" name="shangjila" xy="468,233" pivot="0.5,0" size="404,129" url="ui://886t386cji911c" align="center" vAlign="middle"/>
+    <image id="n3_pmlt" name="n3" src="pmlt2" fileName="sprite_public/lv.png" xy="551,404" pivot="0.5,0" size="117,67"/>
+    <text id="n4_pmlt" name="lvTex" xy="688,399" pivot="0,0.5" size="201,80" font="ui://8a6sre6epmlth" fontSize="12" vAlign="middle" autoSize="none" text="12"/>
+    <component id="n5_pmlt" name="closeBtn" src="pmlti" fileName="button/Button1.xml" xy="558,520" size="225,95"/>
+    <text id="n8_pmlt" name="timeTex" xy="665,544" size="40,39" font="ui://8a6sre6epmltt" fontSize="12" align="center" vAlign="middle" autoSize="none" text="1"/>
+  </displayList>
+</component>

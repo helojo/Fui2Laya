@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720" bgColor="#999999">
+  <displayList>
+    <graph id="n5_i7ww" name="n5" xy="0,0" size="1280,720" alpha="0.6" type="rect" fillColor="#ff000000"/>
+    <image id="n8_q4k8" name="n8" src="q4k85n" fileName="Assets/Hunter/tishi/kuang.png" xy="370,191"/>
+    <component id="n0_i7ww" name="CancelBtn" src="i7ww7u" fileName="Components/ReconnectDialog/No.xml" xy="448,411"/>
+    <component id="n1_i7ww" name="ConfirmBtn" src="i7ww7v" fileName="Components/ReconnectDialog/Yes.xml" xy="696,405"/>
+    <loader id="n4_i7ww" name="n4" xy="621,199" size="66,38" url="ui://s04p7d99l1n346"/>
+    <text id="n6_q4k8" name="ContentLabel" xy="430,317" size="446,29" font="STZhongsong" fontSize="22" color="#5383c0" align="center" vAlign="middle" autoSize="none" bold="true" text="网络断开连接，是否重新连接游戏？"/>
+  </displayList>
+</component>

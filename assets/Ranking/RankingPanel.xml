@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <controller name="tab" pages="0,,1," selected="0"/>
+  <displayList>
+    <graph id="n27_cn06" name="n27" xy="0,0" size="1280,720" alpha="0.5" type="rect" fillColor="#ff000000"/>
+    <image id="n0_cn06" name="n0" src="gbiv1a" fileName="phb.png" xy="179,76"/>
+    <component id="n2_cn06" name="thisWeekBut" src="cn06k" fileName="Button/Button1.xml" xy="361,134">
+      <Button checked="true" controller="tab" page="0"/>
+    </component>
+    <component id="n3_cn06" name="lastWeekBut" src="cn06k" fileName="Button/Button1.xml" xy="641,133">
+      <Button controller="tab" page="1"/>
+    </component>
+    <loader id="n33_gbiv" name="phb" xy="591,86" size="93,50" url="ui://a9xzwem1o8sx12" align="center" vAlign="middle" playing="false"/>
+    <loader id="n4_cn06" name="shangzhou" xy="753,150" size="46,22" touchable="false" url="ui://a9xzwem1cn06c" align="center">
+      <gearDisplay controller="tab" pages="0"/>
+    </loader>
+    <loader id="n6_cn06" name="benzhou_down" xy="471,150" size="53,27" touchable="false" url="ui://a9xzwem1cn061" align="center">
+      <gearDisplay controller="tab" pages="0"/>
+    </loader>
+    <loader id="n7_cn06" name="benzhou" xy="474,150" size="47,24" touchable="false" url="ui://a9xzwem1cn060" align="center">
+      <gearDisplay controller="tab" pages="1"/>
+    </loader>
+    <loader id="n5_cn06" name="shangzhou_down" xy="749,150" size="53,26" touchable="false" url="ui://a9xzwem1cn06d" align="center">
+      <gearDisplay controller="tab" pages="1"/>
+    </loader>
+    <component id="n26_cn06" name="close" src="cn0611" fileName="Button/Button2.xml" xy="1061,70"/>
+    <list id="n16_cn06" name="thisWeekList" xy="215,276" size="851,347" group="n37_gbiv" overflow="scroll" lineGap="9" defaultItem="ui://kpb4wro9cn06z" align="center"/>
+    <component id="n8_cn06" name="thisSelfRankCom" src="gdfk13" fileName="selfRankingCom.xml" xy="218,191" size="839,79" group="n37_gbiv"/>
+    <group id="n37_gbiv" name="thisWeek" xy="215,191" size="851,432" advanced="true" collapsed="true">
+      <gearDisplay controller="tab" pages="0"/>
+    </group>
+    <list id="n19_cn06" name="lastWeekList" xy="215,276" size="851,347" group="n38_gbiv" overflow="scroll" lineGap="9" defaultItem="ui://kpb4wro9cn06z" align="center"/>
+    <component id="n29_gdfk" name="lastSelfRankCom" src="gdfk13" fileName="selfRankingCom.xml" xy="218,191" group="n38_gbiv"/>
+    <group id="n38_gbiv" name="lastWeek" xy="215,191" size="851,432" advanced="true" collapsed="true">
+      <gearDisplay controller="tab" pages="1"/>
+    </group>
+  </displayList>
+</component>

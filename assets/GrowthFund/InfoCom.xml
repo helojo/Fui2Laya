@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="281,385">
+  <displayList>
+    <loader id="n28_nlmz" name="bgLoader" xy="30,8" size="234,353" url="ui://wrh5wwlynlmz1"/>
+    <loader id="n27_nlmz" name="tipLoader" xy="109,21" size="90,37" url="ui://80tz54g0nlmz1e"/>
+    <image id="n13_nlmz" name="n13" src="nlmzv" fileName="sprite_Public/hongkuang.png" xy="0,0"/>
+    <loader id="n16_nlmz" name="fanli" xy="66,281" size="42,25" url="ui://8mb9d46xji913f" align="right" vAlign="middle"/>
+    <loader id="n17_nlmz" name="fanli_1" xy="28,19" pivot="0,1" size="37,22" skew="-30,-30" url="ui://80tz54g0nlmzk" align="center" vAlign="middle"/>
+    <loader id="n19_nlmz" name="grjg" xy="59,247" size="80,26" url="ui://8mb9d46xji913g" align="center" vAlign="middle"/>
+    <image id="n20_nlmz" name="n20" src="nlmz12" fileName="sprite_Public/jb_.png" xy="107,277"/>
+    <loader id="n21_nlmz" name="bei_1" xy="56,25" size="19,22" skew="-30,-30" url="ui://8mb9d46xji9139" vAlign="middle"/>
+    <text id="n22_nlmz" name="timesTex" xy="12,7" pivot="1,0.5" size="51,53" skew="-30,-30" font="ui://wrh5wwlynlmz2p" fontSize="20" color="#66cc00" align="right" vAlign="middle" letterSpacing="-4" autoSize="none" bold="true" text="100"/>
+    <text id="n23_nlmz" name="priceTex" xy="158,248" size="115,30" font="ui://wrh5wwlynlmz2o" fontSize="20" color="#66cc00" vAlign="middle" letterSpacing="-4" autoSize="none" bold="true" text="600.00"/>
+    <text id="n24_nlmz" name="rebateTex" xy="148,280" size="114,29" font="ui://wrh5wwlynlmz34" fontSize="20" color="#66cc00" vAlign="middle" letterSpacing="-4" autoSize="none" bold="true" text="2848.25"/>
+    <component id="n26_nlmz" name="byStatusCom" src="nlmz37" fileName="ByStatusCom.xml" xy="48,314"/>
+  </displayList>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="161,29" extention="ProgressBar">
+  <displayList>
+    <image id="n0_nlmz" name="n0" src="nlmzd" fileName="sprites/fmale_1.png" xy="0,0" size="161,29">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_nlmz" name="bar" src="nlmze" fileName="sprites/fmale_2(1).png" xy="5,4" size="151,19"/>
+  </displayList>
+  <ProgressBar/>
+</component>

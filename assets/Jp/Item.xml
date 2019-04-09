@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="841,50">
+  <displayList>
+    <image id="n0_sq0l" name="n0" src="sq0l2" fileName="jp_line.png" xy="0,50"/>
+    <text id="n1_sq0l" name="data" xy="9,13" size="227,36" font="Arial" fontSize="20" color="#c94c16" align="center" vAlign="bottom" autoSize="none" bold="true" text="2018.12.18 4:58:54"/>
+    <text id="n2_sq0l" name="name" xy="255,13" size="172,37" font="Arial" fontSize="20" color="#c94c16" align="center" vAlign="bottom" autoSize="none" bold="true" text="玩家名字"/>
+    <text id="n3_sq0l" name="grade" xy="440,1" size="165,48" font="Arial" fontSize="20" color="#c94c16" align="center" vAlign="bottom" autoSize="none" bold="true" text="三等级"/>
+    <text id="n4_sq0l" name="amount" xy="630,13" size="174,38" font="Arial" fontSize="20" color="#c94c16" align="center" vAlign="bottom" autoSize="none" bold="true" text="888888888"/>
+  </displayList>
+</component>

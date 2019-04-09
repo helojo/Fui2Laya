@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720" pivot="0.5,0.5" designImage="ui://gqzsfv5otpjrg">
+  <displayList>
+    <loader id="n4_km3c" name="warnLoader" xy="366,314" pivot="0.5,0.5" size="630,99" group="n6_km3c" touchable="false" url="ui://gqzsfv5oll0xc" align="center" vAlign="middle" autoSize="true"/>
+    <loader id="n5_km3c" name="fishIconLoader" xy="21,239" pivot="0.5,0.5" size="351,224" group="n6_km3c" touchable="false" url="ui://gqzsfv5oll0xe" align="center" vAlign="middle" autoSize="true"/>
+    <group id="n6_km3c" name="n6" xy="21,238" size="975,224" advanced="true"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="XY" target="n6_km3c" tween="true" startValue="-1289,235" endValue="92.36,235.75" duration="11"/>
+    <item time="26" type="XY" target="n6_km3c" tween="true" startValue="93,235" endValue="1283,235" duration="12"/>
+  </transition>
+</component>

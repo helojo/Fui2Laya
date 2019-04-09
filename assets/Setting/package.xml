@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ch4k4ey5" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="lgn10" name="SettingPanel.xml" path="/" exported="true"/>
+    <image id="lgn11" name="gb.png" path="/sprite_public/"/>
+    <image id="lgn12" name="gd_1.png" path="/sprite_public/" scale="tile"/>
+    <image id="lgn13" name="gd_2.png" path="/sprite_public/" scale="" scale9grid="86,9,172,18"/>
+    <image id="lgn14" name="gundong.png" path="/sprite_public/"/>
+    <image id="lgn18" name="kuang.png" path="/sprite_public/"/>
+    <component id="lgn1b" name="Button1.xml" path="/button/"/>
+    <component id="l11qg" name="Slider2_grip.xml" path="/slider/"/>
+    <component id="l11qh" name="Slider2.xml" path="/slider/" exported="true"/>
+  </resources>
+  <publish name="Setting"/>
+</packageDescription>

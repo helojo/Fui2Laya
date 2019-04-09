@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="8ykl1q9g" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="ji91m" name="youxiID.png" path="/sprites_En/" exported="true"/>
+    <image id="ji91n" name="jbje.png" path="/sprites_En/" exported="true"/>
+    <image id="ji91o" name="frame_xinxi.png" path="/sprites_En/" exported="true"/>
+    <image id="ji91p" name="grxx.png" path="/sprites_En/" exported="true"/>
+  </resources>
+  <publish name="PersonalInfoEn"/>
+</packageDescription>

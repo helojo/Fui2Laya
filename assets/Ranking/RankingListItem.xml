@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="838,79">
+  <displayList>
+    <image id="n0_cn06" name="n0" src="cn069" fileName="Sprite/kuang3.png" xy="0,0"/>
+    <component id="n3_cn06" name="playName" src="cn06l" fileName="playName.xml" xy="207,11"/>
+    <component id="n4_cn06" name="coinNum" src="cn06m" fileName="CoinNum.xml" xy="529,11"/>
+    <image id="n1_cn06" name="n1" src="cn06b" fileName="Sprite/sbang_1.png" xy="26,16" group="n6_cn06"/>
+    <text id="n2_cn06" name="ranking" xy="31,24" size="65,33" group="n6_cn06" font="ui://kpb4wro9cn06y" fontSize="12" align="center" vAlign="middle" autoSize="none" text="0"/>
+    <group id="n6_cn06" name="rankingTex" xy="26,16" size="90,52" advanced="true"/>
+    <loader id="n9_cn06" name="rankingImg" xy="32,16" size="62,48"/>
+  </displayList>
+</component>

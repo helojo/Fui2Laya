@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <graph id="n17_m1lh" name="n17" xy="0,0" size="1280,720" alpha="0.6" touchable="false" type="rect" fillColor="#ff000000"/>
+    <image id="n0_lnng" name="n0" src="e795x" fileName="Assets/Hunter/frame_2.png" xy="183,77"/>
+    <image id="n1_lnng" name="n1" src="e7951k" fileName="Assets/Hunter/zdby.png" xy="587,88"/>
+    <component id="n15_m1lh" name="HuntedPanel" src="lnng4i" fileName="Components/AutoAttackPanel/HuntedPanel.xml" xy="183,77"/>
+    <component id="n16_m1lh" name="SelectPanel" src="lnng4b" fileName="Components/AutoAttackPanel/SelectPanel.xml" xy="183,77"/>
+    <component id="n14_m1lh" name="CloseBtn" src="m1lh5k" fileName="Components/AutoAttackPanel/CloseBtn.xml" xy="1068,69"/>
+  </displayList>
+</component>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="o3tp3edg" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="nlo9r" name="Button1.xml" path="/"/>
+    <component id="nlo9s" name="GuideCom.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="Guide"/>
+</packageDescription>

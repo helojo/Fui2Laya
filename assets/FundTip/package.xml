@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="wkige9gn" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="hrkn0" name="clock.png" path="/Sprite/"/>
+    <image id="hrkn2" name="fmale_1.png" path="/Sprite/"/>
+    <image id="hrkn3" name="fmale_2.png" path="/Sprite/"/>
+    <image id="hrkn4" name="fmale_4.png" path="/Sprite/"/>
+    <image id="hrkn5" name="gou.png" path="/Sprite/"/>
+    <image id="hrkn7" name="jb.png" path="/Sprite/"/>
+    <image id="hrkna" name="qszjj_1.png" path="/Sprite/"/>
+    <image id="hrknb" name="qszjj_2.png" path="/Sprite/"/>
+    <image id="hrknf" name="taiofu.png" path="/Sprite/"/>
+    <image id="hrkng" name="tiaofu.png" path="/Sprite/"/>
+    <component id="hrknj" name="FundTipCom.xml" path="/" exported="true"/>
+    <component id="hrknn" name="Button1.xml" path="/Button/"/>
+    <image id="hrknq" name="..png" path="/Font/jine0-9_01/"/>
+    <image id="hrknr" name="0.png" path="/Font/jine0-9_01/"/>
+    <image id="hrkns" name="1.png" path="/Font/jine0-9_01/"/>
+    <image id="hrknt" name="2.png" path="/Font/jine0-9_01/"/>
+    <image id="hrknu" name="3.png" path="/Font/jine0-9_01/"/>
+    <image id="hrknv" name="4.png" path="/Font/jine0-9_01/"/>
+    <image id="hrknw" name="5.png" path="/Font/jine0-9_01/"/>
+    <image id="hrknx" name="6.png" path="/Font/jine0-9_01/"/>
+    <image id="hrkny" name="7.png" path="/Font/jine0-9_01/"/>
+    <image id="hrknz" name="8.png" path="/Font/jine0-9_01/"/>
+    <image id="hrkn10" name="9.png" path="/Font/jine0-9_01/"/>
+    <font id="hrkn11" name="AmountFont.fnt" path="/Font/jine0-9_01/" exported="true"/>
+    <image id="hrkn12" name="gb.png" path="/Sprite/"/>
+    <component id="hrkn13" name="Button2.xml" path="/Button/"/>
+    <component id="hrkn14" name="Button3.xml" path="/Button/"/>
+  </resources>
+  <publish name="FundTip"/>
+</packageDescription>

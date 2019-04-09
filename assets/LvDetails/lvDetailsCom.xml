@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <graph id="n0_hrkn" name="n0" xy="0,0" size="1280,720" alpha="0.5" type="rect" fillColor="#ff000000"/>
+    <image id="n1_hrkn" name="n1" src="hrkn0" fileName="Sprite_Public/huodongshuoming_1.png" xy="285,153"/>
+    <component id="n4_hrkn" name="closeBtn" src="hrkn6" fileName="Button/Button1.xml" xy="983,154"/>
+    <image id="n5_hrkn" name="n5" src="hrkn2" fileName="Sprite_Public/huodongshuoming_2.png" xy="350,120"/>
+    <component id="n7_hrkn" name="contentCom" src="ji919" fileName="contentCom.xml" xy="342,232"/>
+    <loader id="n8_hrkn" name="hdsm" xy="565,132" size="183,52" url="ui://8ngnup8mhrkn3" align="center" vAlign="middle"/>
+  </displayList>
+</component>

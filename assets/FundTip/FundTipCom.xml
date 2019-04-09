@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <graph id="n0_hrkn" name="n0" xy="0,0" size="1280,720" alpha="0.5" type="rect" fillColor="#ff000000"/>
+    <image id="n1_hrkn" name="n1" src="hrkn2" fileName="Sprite/fmale_1.png" xy="60,145"/>
+    <image id="n2_hrkn" name="n2" src="hrknf" fileName="Sprite/taiofu.png" xy="240,123"/>
+    <image id="n3_hrkn" name="n3" src="hrkng" fileName="Sprite/tiaofu.png" xy="331,249"/>
+    <loader id="n4_hrkn" name="wenzi1" xy="382,257" size="275,49" url="ui://8jdro40ahrknh"/>
+    <loader id="n5_hrkn" name="wenzi2" xy="466,335" size="474,49" url="ui://8jdro40ahrkni"/>
+    <loader id="n8_hrkn" name="djjj" xy="517,147" size="184,53" url="ui://8jdro40ahrknk"/>
+    <image id="n9_hrkn" name="n9" src="hrkn4" fileName="Sprite/fmale_4.png" xy="261,516"/>
+    <image id="n7_hrkn" name="n7" src="hrkn4" fileName="Sprite/fmale_4.png" xy="259,456"/>
+    <loader id="n6_hrkn" name="shhhbss" xy="290,526" size="254,28" url="ui://8jdro40ahrknd"/>
+    <loader id="n10_hrkn" name="sysj" xy="360,414" size="111,34" url="ui://8jdro40ahrkne"/>
+    <loader id="n11_hrkn" name="qszjj_3" xy="770,493" size="205,47" url="ui://8jdro40ahrknc"/>
+    <image id="n13_hrkn" name="n13" src="hrkna" fileName="Sprite/qszjj_1.png" xy="936,390"/>
+    <loader id="n14_hrkn" name="jtbzts" xy="623,588" size="106,20" url="ui://8jdro40ahrkn8"/>
+    <image id="n15_hrkn" name="n15" src="hrkn0" fileName="Sprite/clock.png" xy="475,408"/>
+    <text id="n16_hrkn" name="timeTex" xy="524,414" size="145,32" font="Arial" fontSize="20" color="#99ff00" vAlign="middle" autoSize="none" bold="true" text="0"/>
+    <component id="n19_hrkn" name="isTip" src="hrknn" fileName="Button/Button1.xml" xy="576,579"/>
+    <loader id="n20_hrkn" name="dqlqje" xy="363,466" size="181,28" url="ui://8jdro40ahrkn1"/>
+    <image id="n21_hrkn" name="n21" src="hrkn7" fileName="Sprite/jb.png" xy="548,461"/>
+    <image id="n22_hrkn" name="n22" src="hrkn7" fileName="Sprite/jb.png" xy="548,519"/>
+    <text id="n23_hrkn" name="currAmountTex" xy="592,461" size="134,39" font="ui://wkige9gnhrkn11" fontSize="20" color="#99ff00" vAlign="middle" autoSize="none" text="0"/>
+    <text id="n24_hrkn" name="hightestReceiveTex" xy="595,524" size="127,35" font="ui://wkige9gnhrkn11" fontSize="20" color="#99ff00" vAlign="middle" autoSize="none" text="0"/>
+    <component id="n25_hrkn" name="closeBtn" src="hrkn13" fileName="Button/Button2.xml" xy="1174,140"/>
+    <component id="n26_hrkn" name="goBtn" src="hrkn14" fileName="Button/Button3.xml" xy="1000,455"/>
+  </displayList>
+</component>

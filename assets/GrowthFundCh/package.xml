@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="80tz54g0" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="nlmz18" name="tip0.png" path="/sprite_Ch/" exported="true"/>
+    <image id="nlmzh" name="tip1.png" path="/sprite_Ch/" exported="true"/>
+    <image id="nlmz1e" name="tip2.png" path="/sprite_Ch/" exported="true"/>
+    <image id="nlmz1a" name="tip3.png" path="/sprite_Ch/" exported="true"/>
+    <image id="nlmz16" name="mdyd2.png" path="/sprite_Ch/" exported="true"/>
+    <image id="nlmz14" name="mdyd.png" path="/sprite_Ch/" exported="true"/>
+    <image id="nlmz4" name="bcesj.png" path="/sprite_Ch/" exported="true"/>
+    <image id="nlmz6" name="bei_1.png" path="/sprite_Ch/" exported="true"/>
+    <image id="nlmza" name="btn_hdsm.png" path="/sprite_Ch/" exported="true"/>
+    <image id="nlmzc" name="ckdj.png" path="/sprite_Ch/" exported="true"/>
+    <image id="nlmzf" name="czjj.png" path="/sprite_Ch/" exported="true"/>
+    <image id="nlmzj" name="fanli.png" path="/sprite_Ch/" exported="true"/>
+    <image id="nlmzk" name="fanli_1.png" path="/sprite_Ch/" exported="true"/>
+    <image id="nlmzq" name="grjg.png" path="/sprite_Ch/" exported="true"/>
+    <image id="nlmz29" name="huodongshengyu.png" path="/sprite_Ch/" exported="true"/>
+    <image id="nlmzw" name="ing_goumai.png" path="/sprite_Ch/" exported="true"/>
+    <image id="nlmzy" name="ing_yigoumai.png" path="/sprite_Ch/" exported="true"/>
+    <image id="nlmz10" name="ing_yishenji.png" path="/sprite_Ch/" exported="true"/>
+  </resources>
+  <publish name="GrowthFundCh"/>
+</packageDescription>

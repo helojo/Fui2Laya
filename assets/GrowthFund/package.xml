@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="wrh5wwly" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="nlmz0" name="3.png" path="/sprite_Public/" exported="true"/>
+    <image id="nlmz1" name="2.png" path="/sprite_Public/" exported="true"/>
+    <image id="nlmz2" name="1.png" path="/sprite_Public/" exported="true"/>
+    <image id="nlmz3" name="0.png" path="/sprite_Public/" exported="true"/>
+    <image id="nlmz9" name="btn_hdsm.png" path="/sprite_Public/"/>
+    <image id="nlmzd" name="ckdjjj.png" path="/sprite_Public/"/>
+    <image id="nlmzn" name="fmale_1.png" path="/sprite_Public/"/>
+    <image id="nlmzo" name="gb.png" path="/sprite_Public/"/>
+    <image id="nlmzp" name="ggtiao.png" path="/sprite_Public/"/>
+    <image id="nlmzt" name="gth.png" path="/sprite_Public/"/>
+    <image id="nlmzv" name="hongkuang.png" path="/sprite_Public/"/>
+    <image id="nlmz12" name="jb_.png" path="/sprite_Public/"/>
+    <image id="nlmz13" name="jiantou_.png" path="/sprite_Public/"/>
+    <image id="nlmz1c" name="tiaofu.png" path="/sprite_Public/"/>
+    <image id="nlmz1k" name="..png" path="/Font/RebateFont/"/>
+    <image id="nlmz1m" name="0.png" path="/Font/RebateFont/"/>
+    <image id="nlmz1n" name="1.png" path="/Font/RebateFont/"/>
+    <image id="nlmz1o" name="2.png" path="/Font/RebateFont/"/>
+    <image id="nlmz1p" name="3.png" path="/Font/RebateFont/"/>
+    <image id="nlmz1q" name="4.png" path="/Font/RebateFont/"/>
+    <image id="nlmz1r" name="5.png" path="/Font/RebateFont/"/>
+    <image id="nlmz1s" name="6.png" path="/Font/RebateFont/"/>
+    <image id="nlmz1t" name="7.png" path="/Font/RebateFont/"/>
+    <image id="nlmz1u" name="8.png" path="/Font/RebateFont/"/>
+    <image id="nlmz1v" name="9.png" path="/Font/RebateFont/"/>
+    <image id="nlmz1x" name="0.png" path="/Font/priceFont/"/>
+    <image id="nlmz1y" name="..png" path="/Font/priceFont/"/>
+    <image id="nlmz1z" name="1.png" path="/Font/priceFont/"/>
+    <image id="nlmz20" name="2.png" path="/Font/priceFont/"/>
+    <image id="nlmz21" name="3.png" path="/Font/priceFont/"/>
+    <image id="nlmz22" name="4.png" path="/Font/priceFont/"/>
+    <image id="nlmz23" name="5.png" path="/Font/priceFont/"/>
+    <image id="nlmz24" name="6.png" path="/Font/priceFont/"/>
+    <image id="nlmz25" name="7.png" path="/Font/priceFont/"/>
+    <image id="nlmz26" name="8.png" path="/Font/priceFont/"/>
+    <image id="nlmz27" name="9.png" path="/Font/priceFont/"/>
+    <component id="nlmz28" name="GrowthFundCom.xml" path="/" exported="true"/>
+    <image id="nlmz2a" name="clock.png" path="/sprite_Public/"/>
+    <font id="nlmz2o" name="priceFont.fnt" path="/Font/priceFont/" exported="true"/>
+    <font id="nlmz2p" name="RebateFont.fnt" path="/Font/RebateFont/" exported="true"/>
+    <component id="nlmz2q" name="Button1.xml" path="/Button/"/>
+    <component id="nlmz2r" name="Button2.xml" path="/Button/"/>
+    <component id="nlmz2s" name="Button3.xml" path="/Button/"/>
+    <image id="nlmz2t" name="..png" path="/Font/je_0-9/"/>
+    <image id="nlmz2u" name="0.png" path="/Font/je_0-9/"/>
+    <image id="nlmz2v" name="1.png" path="/Font/je_0-9/"/>
+    <image id="nlmz2w" name="2.png" path="/Font/je_0-9/"/>
+    <image id="nlmz2x" name="3.png" path="/Font/je_0-9/"/>
+    <image id="nlmz2y" name="4.png" path="/Font/je_0-9/"/>
+    <image id="nlmz2z" name="5.png" path="/Font/je_0-9/"/>
+    <image id="nlmz30" name="6.png" path="/Font/je_0-9/"/>
+    <image id="nlmz31" name="7.png" path="/Font/je_0-9/"/>
+    <image id="nlmz32" name="8.png" path="/Font/je_0-9/"/>
+    <image id="nlmz33" name="9.png" path="/Font/je_0-9/"/>
+    <font id="nlmz34" name="rrebateFont2.fnt" path="/Font/je_0-9/" exported="true"/>
+    <component id="nlmz35" name="InfoCom.xml" path="/"/>
+    <component id="nlmz36" name="Button4.xml" path="/Button/"/>
+    <component id="nlmz37" name="ByStatusCom.xml" path="/"/>
+  </resources>
+  <publish name="GrowthFund"/>
+</packageDescription>

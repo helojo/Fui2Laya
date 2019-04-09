@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720" designImage="ui://wrh5wwlynlmz1d" designImageOffsetX="-61" designImageOffsetY="48">
+  <displayList>
+    <graph id="n0_nlmz" name="n0" xy="0,0" size="1280,720" alpha="0.5" type="rect" fillColor="#ff000000"/>
+    <image id="n1_nlmz" name="n1" src="nlmzn" fileName="sprite_Public/fmale_1.png" xy="75,83"/>
+    <image id="n2_nlmz" name="n2" src="nlmzp" fileName="sprite_Public/ggtiao.png" xy="113,106"/>
+    <image id="n3_nlmz" name="n3" src="nlmz1c" fileName="sprite_Public/tiaofu.png" xy="265,19"/>
+    <loader id="n4_nlmz" name="czjj" xy="555,36" size="179,49" url="ui://80tz54g0nlmzf" align="center" vAlign="middle"/>
+    <loader id="n5_nlmz" name="mdyd2" xy="386,157" pivot="0.5,1" size="544,58" url="ui://8mb9d46xji913l" align="center" vAlign="bottom" autoSize="true"/>
+    <loader id="n7_nlmz" name="mdyd" xy="340,119" size="196,62" url="ui://8mb9d46xji913k" vAlign="middle"/>
+    <loader id="n8_nlmz" name="huodongshengyu" xy="833,148" pivot="1,0.5" size="256,26" url="ui://8mb9d46xji913p" align="right" autoSize="true"/>
+    <image id="n9_nlmz" name="n9" src="nlmz2a" fileName="sprite_Public/clock.png" xy="953,169"/>
+    <component id="n14_nlmz" name="helpBtn" src="nlmz2q" fileName="Button/Button1.xml" xy="368,602"/>
+    <component id="n15_nlmz" name="lvBonus" src="nlmz2r" fileName="Button/Button2.xml" xy="762,609"/>
+    <component id="n18_nlmz" name="closeBtn" src="nlmz2s" fileName="Button/Button3.xml" xy="1176,64"/>
+    <text id="n10_nlmz" name="timeTex" xy="996,180" size="133,29" font="Arial" fontSize="20" color="#66cc00" autoSize="none" bold="true" text="0"/>
+    <list id="n27_nlmz" name="infoList" xy="82,216" size="1126,380" layout="row" overflow="hidden" scroll="horizontal" lineGap="45" colGap="-7" defaultItem="ui://wrh5wwlynlmz35"/>
+    <image id="n28_ji91" name="n28" src="nlmz13" fileName="sprite_Public/jiantou_.png" xy="626,120" size="210,77">
+      <relation target="n8_nlmz" sidePair="left-left"/>
+    </image>
+  </displayList>
+</component>

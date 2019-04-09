@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="8r22f69m" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="sq0l3" name="nc.png" path="/sprite_Ch/" exported="true"/>
+    <image id="sq0l4" name="zjdj.png" path="/sprite_Ch/" exported="true"/>
+    <image id="sq0l5" name="zjje.png" path="/sprite_Ch/" exported="true"/>
+    <image id="sq0l6" name="zjmd.png" path="/sprite_Ch/" exported="true"/>
+    <image id="sq0l7" name="zjrq.png" path="/sprite_Ch/" exported="true"/>
+  </resources>
+  <publish name="JpCh"/>
+</packageDescription>

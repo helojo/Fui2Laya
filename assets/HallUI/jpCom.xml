@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="218,155">
+  <displayList>
+    <component id="n36_gqp2" name="jpBtn" src="gqp21l" fileName="button/Button4.xml" xy="2,0"/>
+    <image id="n37_gqp2" name="n37" src="gqp211" fileName="sprite/buyu_jackput02.png" xy="8,44"/>
+    <text id="n38_gqp2" name="jpNumTex" xy="-1,86" size="217,47" font="ui://19ec9vffgqp21x" fontSize="20" color="#ffffff" align="center" vAlign="middle" letterSpacing="-3" autoSize="none" text="456123.88"/>
+    <movieclip id="n39_gqp2" name="n39" src="gqp21g" fileName="jackput_saoguang/jpAni.jta" xy="2,41"/>
+    <image id="n40_gqp2" name="n40" src="gqp212" fileName="sprite/missile.png" xy="13,41"/>
+    <image id="n41_gqp2" name="n41" src="gqp212" fileName="sprite/missile.png" xy="183,60"/>
+    <image id="n42_gqp2" name="n42" src="gqp2z" fileName="sprite/bubble_12.png" xy="126,25"/>
+    <image id="n43_gqp2" name="n43" src="gqp2z" fileName="sprite/bubble_12.png" xy="54,29"/>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Alpha" target="n40_gqp2" tween="true" startValue="1" endValue="0" duration="24" repeat="-1" yoyo="true"/>
+    <item time="0" type="Alpha" target="n41_gqp2" tween="true" startValue="0" endValue="1" duration="24" repeat="-1" yoyo="true"/>
+    <item time="0" type="XY" target="n42_gqp2" tween="true" startValue="136,73.25" endValue="140,26.25" duration="24" repeat="-1" yoyo="true"/>
+    <item time="0" type="XY" target="n43_gqp2" tween="true" startValue="58.25,13" endValue="45.25,80" duration="42" repeat="-1" yoyo="true"/>
+    <item time="24" type="Alpha" target="n40_gqp2" tween="true" startValue="0" endValue="1" duration="24" repeat="-1" yoyo="true"/>
+    <item time="24" type="Alpha" target="n41_gqp2" tween="true" startValue="1" endValue="0" duration="24" repeat="-1" yoyo="true"/>
+    <item time="24" type="XY" target="n42_gqp2" tween="true" startValue="140,26.25" endValue="145.5,65.75" duration="18"/>
+    <item time="42" type="XY" target="n42_gqp2" tween="true" startValue="145.5,65.75" repeat="-1" yoyo="true"/>
+    <item time="42" type="XY" target="n43_gqp2" tween="true" startValue="45.25,80" endValue="61.75,15.5" duration="24"/>
+    <item time="48" type="Alpha" target="n40_gqp2" tween="true" startValue="1" repeat="-1" yoyo="true"/>
+    <item time="48" type="Alpha" target="n41_gqp2" tween="true" startValue="0" repeat="-1" yoyo="true"/>
+    <item time="66" type="XY" target="n43_gqp2" tween="true" startValue="61.75,15.5" repeat="-1" yoyo="true"/>
+  </transition>
+</component>

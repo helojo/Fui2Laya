@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <graph id="n22_j3au" name="Monitor" xy="0,0" size="1280,720" alpha="0" type="rect"/>
+    <component id="n10_cajl" name="Cannon0" src="e795k" fileName="Components/HuntePanel/Cannon.xml" xy="249,587"/>
+    <component id="n11_cajl" name="Cannon1" src="e795k" fileName="Components/HuntePanel/Cannon.xml" xy="775,585"/>
+    <component id="n12_cajl" name="Cannon2" src="e795k" fileName="Components/HuntePanel/Cannon.xml" xy="249,-1"/>
+    <component id="n13_cajl" name="Cannon3" src="e795k" fileName="Components/HuntePanel/Cannon.xml" xy="775,-4"/>
+  </displayList>
+</component>

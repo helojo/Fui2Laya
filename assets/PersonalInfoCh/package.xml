@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="8y8oewnh" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="nlmz2" name="frame_xinxi.png" path="/sprites_Ch/" exported="true"/>
+    <image id="nlmz3" name="grxx.png" path="/sprites_Ch/" exported="true"/>
+    <image id="nlmz5" name="jbje.png" path="/sprites_Ch/" exported="true"/>
+    <image id="nlmz7" name="youxiID.png" path="/sprites_Ch/" exported="true"/>
+  </resources>
+  <publish name="PersonalInfoCh"/>
+</packageDescription>

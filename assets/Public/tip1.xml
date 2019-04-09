@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <graph id="n1_bye6" name="n1" xy="0,0" size="1280,722" group="n7_bye6" alpha="0.5" type="rect" fillColor="#ff000000"/>
+    <image id="n0_bye6" name="n0" src="bye68" fileName="kuang.png" xy="360,199" group="n7_bye6"/>
+    <image id="n2_bye6" name="n2" src="bye6c" fileName="tishi.png" xy="606,210" group="n7_bye6"/>
+    <component id="n3_bye6" name="yes" src="bye6g" fileName="Button1.xml" xy="695,422" group="n7_bye6">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearXY controller="c1" pages="1" values="555,429" default="695,422"/>
+    </component>
+    <component id="n4_bye6" name="no" src="bye6h" fileName="Button2.xml" xy="431,426" group="n7_bye6">
+      <gearDisplay controller="c1" pages="0"/>
+    </component>
+    <text id="n5_bye6" name="text" xy="384,265" size="517,164" group="n7_bye6" font="SimHei" fontSize="24" color="#4480c9" align="center" vAlign="middle" autoSize="none" bold="true" text="网络断开连接，是否重新连接游戏"/>
+    <group id="n7_bye6" name="n7" xy="0,0" size="1280,722"/>
+  </displayList>
+</component>

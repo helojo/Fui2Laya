@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="270,129">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n0_lnng" name="n0" src="e795w" fileName="Assets/Hunter/frame_1.png" xy="0,0" size="270,129"/>
+    <loader id="n1_lnng" name="FishImg" xy="13,17" size="144,87" url="ui://kdym4vsblnng52"/>
+    <text id="n4_lnng" name="Value" xy="149,78" size="112,26" font="ui://kdym4vsblnng49" fontSize="18" color="#ffffff" vAlign="middle" bold="true" text="120.00"/>
+    <image id="n9_m1lh" name="n9" src="e795y" fileName="Assets/Hunter/frame_3png.png" xy="217,12"/>
+    <image id="n8_m1lh" name="n8" src="e7951a" fileName="Assets/Hunter/pic_gou.png" xy="221,16" alpha="0">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearLook controller="c1" pages="0,1" values="0,0,0,1|1,0,0,1" tween="true"/>
+    </image>
+  </displayList>
+</component>

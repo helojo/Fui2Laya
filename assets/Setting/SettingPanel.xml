@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <graph id="n11_nlev" name="n11" xy="0,-2" size="1281,722" alpha="0.49" touchable="false" type="rect" fillColor="#ff000000"/>
+    <image id="n0_lgn1" name="bg" src="lgn18" fileName="sprite_public/kuang.png" xy="368,197"/>
+    <loader id="n1_lgn1" name="set" xy="624,210" size="66,38" url="ui://ch4k4ey5lgn15"/>
+    <loader id="n2_lgn1" name="music" xy="424,311" size="72,33" url="ui://ch4k4ey5lgn17"/>
+    <loader id="n3_lgn1" name="sound" xy="425,386" size="72,33" url="ui://ch4k4ey5lgn16"/>
+    <component id="n8_l11q" name="musicSli" src="l11qh" fileName="slider/Slider2.xml" xy="525,311">
+      <Slider value="50" max="100"/>
+    </component>
+    <component id="n9_l11q" name="soundSli" src="l11qh" fileName="slider/Slider2.xml" xy="525,386">
+      <Slider value="50" max="100"/>
+    </component>
+    <component id="n10_l11q" name="close" src="lgn1b" fileName="button/Button1.xml" xy="901,191"/>
+  </displayList>
+</component>

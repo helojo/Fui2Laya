@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="886t386c" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="ji911c" name="shengjila.png" path="/sprite_En/" exported="true"/>
+    <image id="ji911d" name="fanhui.png" path="/sprite_En/" exported="true"/>
+    <image id="ji911e" name="miao.png" path="/sprite_En/" exported="true"/>
+  </resources>
+  <publish name="upgradePanelEn"/>
+</packageDescription>

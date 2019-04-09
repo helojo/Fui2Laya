@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="s04p7d99" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="l1n343" name="no.png" path="/Sprite/"/>
+    <image id="l1n344" name="queding.png" path="/Sprite/"/>
+    <image id="l1n345" name="quxiao.png" path="/Sprite/"/>
+    <image id="l1n346" name="tishi.png" path="/Sprite/"/>
+    <image id="l1n347" name="wenzi.png" path="/Sprite/"/>
+    <image id="l1n348" name="yes.png" path="/Sprite/"/>
+    <component id="i7ww7t" name="ReconnectTip.xml" path="/Components/ReconnectDialog/" exported="true"/>
+    <component id="i7ww7u" name="No.xml" path="/Components/ReconnectDialog/"/>
+    <component id="i7ww7v" name="Yes.xml" path="/Components/ReconnectDialog/"/>
+    <component id="j3au7w" name="ReconnectUI.xml" path="/Components/ReconnectDialog/" exported="true"/>
+    <image id="j3au7x" name="ReconnectUI.png" path="/Sprite/"/>
+    <image id="q4k85n" name="kuang.png" path="/Sprite/" exported="true"/>
+  </resources>
+  <publish name="Hall"/>
+</packageDescription>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="kpb4wro9" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="cn062" name="gb.png" path="/sprite_public/"/>
+    <image id="cn063" name="ranking1.png" path="/sprite_public/" exported="true"/>
+    <image id="cn064" name="jb_3.png" path="/sprite_public/"/>
+    <image id="cn065" name="kuang_.png" path="/sprite_public/"/>
+    <image id="cn066" name="kuang_da.png" path="/sprite_public/"/>
+    <image id="cn067" name="kuang_xiao.png" path="/sprite_public/"/>
+    <image id="cn068" name="kuang2.png" path="/sprite_public/"/>
+    <image id="cn069" name="kuang3.png" path="/sprite_public/"/>
+    <image id="cn06b" name="sbang_1.png" path="/sprite_public/"/>
+    <image id="cn06e" name="ranking3.png" path="/sprite_public/" exported="true"/>
+    <image id="cn06f" name="touxiang.png" path="/sprite_public/"/>
+    <image id="cn06h" name="ranking2.png" path="/sprite_public/" exported="true"/>
+    <image id="cn06i" name="ranking_frame.png" path="/sprite_public/"/>
+    <component id="cn06j" name="RankingPanel.xml" path="/" exported="true"/>
+    <component id="cn06k" name="Button1.xml" path="/Button/"/>
+    <component id="cn06l" name="playName.xml" path="/" exported="true"/>
+    <component id="cn06m" name="CoinNum.xml" path="/" exported="true"/>
+    <image id="cn06n" name="..png" path="/CoinFont/"/>
+    <image id="cn06o" name="0.png" path="/CoinFont/"/>
+    <image id="cn06p" name="1.png" path="/CoinFont/"/>
+    <image id="cn06q" name="2.png" path="/CoinFont/"/>
+    <image id="cn06r" name="3.png" path="/CoinFont/"/>
+    <image id="cn06s" name="4.png" path="/CoinFont/"/>
+    <image id="cn06t" name="5.png" path="/CoinFont/"/>
+    <image id="cn06u" name="6.png" path="/CoinFont/"/>
+    <image id="cn06v" name="7.png" path="/CoinFont/"/>
+    <image id="cn06w" name="8.png" path="/CoinFont/"/>
+    <image id="cn06x" name="9.png" path="/CoinFont/"/>
+    <font id="cn06y" name="coinFont.fnt" path="/CoinFont/" exported="true"/>
+    <component id="cn06z" name="RankingListItem.xml" path="/" exported="true"/>
+    <component id="cn0611" name="Button2.xml" path="/Button/"/>
+    <component id="gdfk13" name="selfRankingCom.xml" path="/"/>
+    <image id="gbiv1a" name="phb.png" path="/"/>
+  </resources>
+  <publish name="Ranking"/>
+</packageDescription>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="m8mmxtxq" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="lqxc2" name="gb.png" path="/sprite_public/"/>
+    <image id="lqxc3" name="halpkuang_.png" path="/sprite_public/"/>
+    <image id="lqxc5" name="kuang_da.png" path="/sprite_public/"/>
+    <image id="lqxc6" name="kuang_xiao.png" path="/sprite_public/"/>
+    <image id="lqxc7" name="pao_1.png" path="/sprite_public/"/>
+    <image id="lqxc8" name="pao_2.png" path="/sprite_public/"/>
+    <image id="lqxc9" name="pao_3.png" path="/sprite_public/"/>
+    <component id="lqxck" name="HelpPanel.xml" path="/" exported="true"/>
+    <image id="lqxcl" name="halp_frame.png" path="/sprite_public/"/>
+    <component id="lqxcn" name="tab.xml" path="/button/"/>
+    <image id="lqxco" name="yulei_kuang_4.png" path="/sprite_public/"/>
+    <component id="v4dbr" name="close.xml" path="/button/"/>
+    <component id="v4dbs" name="fishIcon.xml" path="/" exported="true"/>
+    <component id="gbiv1f" name="playIntroCom.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="Help"/>
+</packageDescription>

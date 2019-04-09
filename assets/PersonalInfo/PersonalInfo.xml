@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <graph id="n1_nlmz" name="n1" xy="0,0" size="1280,720" alpha="0.5" type="rect" fillColor="#ff000000"/>
+    <image id="n0_nlmz" name="n0" src="nlmz0" fileName="sprites_public/fmale_grxx.png" xy="314,158"/>
+    <image id="n2_nlmz" name="n2" src="nlmz6" fileName="sprites_public/tiaofu.png" xy="304,116"/>
+    <loader id="n3_nlmz" name="grxx" xy="545,130" size="201,53" url="ui://8y8oewnhnlmz3" align="center" vAlign="middle"/>
+    <image id="n4_nlmz" name="n4" src="nlmzf" fileName="sprites_public/txk_02.png" xy="489,253"/>
+    <image id="n5_nlmz" name="n5" src="nlmzg" fileName="sprites_public/txk_03.png" xy="496,262"/>
+    <component id="n7_nlmz" name="expSli" src="nlmzh" fileName="ProgressBar1.xml" xy="580,301">
+      <ProgressBar value="1" max="100"/>
+    </component>
+    <image id="n11_nlmz" name="n11" src="nlmza" fileName="sprites_public/fmale_2.png" xy="449,367"/>
+    <component id="n12_nlmz" name="intrBtn" src="nlmzi" fileName="Button/Button1.xml" xy="874,367"/>
+    <image id="n15_nlmz" name="n15" src="nlmz4" fileName="sprites_public/help_tishi.png" xy="870,266" group="n18_nlmz"/>
+    <loader id="n16_nlmz" name="frame_xinxi" xy="885,278" size="163,56" group="n18_nlmz" url="ui://8y8oewnhnlmz2" align="center" vAlign="middle"/>
+    <group id="n18_nlmz" name="introGr" xy="870,266" size="194,116" advanced="true"/>
+    <image id="n24_nlmz" name="n24" src="nlmz1" fileName="sprites_public/fmale_4.png" xy="623,529"/>
+    <image id="n20_nlmz" name="n20" src="nlmzk" fileName="sprites_public/jb.png" xy="607,529" scale="0.6,0.6"/>
+    <loader id="n21_nlmz" name="jbje" xy="505,526" size="68,31" url="ui://8y8oewnhnlmz5" align="center" vAlign="middle"/>
+    <loader id="n23_nlmz" name="youxiID" xy="473,465" size="100,32" url="ui://8ykl1q9gji91m" align="right" vAlign="middle"/>
+    <text id="n26_nlmz" name="idTex" xy="616,466" size="267,34" font="Arial" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text="null"/>
+    <text id="n27_nlmz" name="coinTex" xy="641,531" size="152,30" font="Arial" fontSize="18" color="#0066ff" vAlign="middle" autoSize="none" bold="true" text="0"/>
+    <text id="n14_nlmz" name="currExpTex" xy="435,368" size="434,46" font="SimHei" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="经验值：0/0"/>
+    <text id="n6_nlmz" name="nameTex" xy="586,262" size="335,35" font="Arial" fontSize="22" color="#3b84cc" vAlign="middle" autoSize="none" bold="true" text="null"/>
+    <text id="n8_nlmz" name="expPreTex" xy="625,302" size="77,27" font="Arial" fontSize="16" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#ff6633" text="0"/>
+    <text id="n9_nlmz" name="lvTex" xy="740,301" size="60,29" font="SimHei" fontSize="16" color="#0a65f7" align="center" vAlign="middle" autoSize="none" bold="true" text="1级"/>
+    <component id="n28_nlmz" name="closeBtn" src="nlmzl" fileName="Button/Button2.xml" xy="935,152"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n18_nlmz" tween="true" startValue="1" endValue="1" duration="36"/>
+    <item time="36" type="Alpha" target="n18_nlmz" tween="true" startValue="1" endValue="0" duration="36"/>
+  </transition>
+</component>

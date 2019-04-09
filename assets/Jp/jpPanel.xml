@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <graph id="n1_sq0l" name="n1" xy="0,0" size="1280,720" alpha="0.5" type="rect" fillColor="#ff000000"/>
+    <image id="n2_sq0l" name="n2" src="sq0l9" fileName="sprite_public/dikuang.png" xy="175,103"/>
+    <image id="n3_sq0l" name="n3" src="sq0l0" fileName="sprite_public/dingbu.png" xy="248,52"/>
+    <loader id="n4_sq0l" name="zjmd" xy="542,101" size="203,65" url="ui://8w2wv477ji91c" align="center" vAlign="middle"/>
+    <loader id="n5_sq0l" name="zjrq" xy="286,203" size="100,33" url="ui://8w2wv477ji91d" align="center" vAlign="middle"/>
+    <loader id="n6_sq0l" name="nc" xy="522,203" size="55,32" url="ui://8w2wv477ji91e" align="center" vAlign="middle"/>
+    <loader id="n7_sq0l" name="zjdj" xy="683,203" size="102,33" url="ui://8w2wv477ji91g" align="center" vAlign="middle"/>
+    <loader id="n8_sq0l" name="zjje" xy="876,203" size="101,33" url="ui://8w2wv477ji91f" align="center" vAlign="middle"/>
+    <list id="n9_sq0l" name="jpList" xy="213,240" size="847,391" overflow="scroll" defaultItem="ui://t339maa2sq0la" align="center">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n10_sq0l" name="close" src="sq0lb" fileName="button/Button1.xml" xy="1046,99"/>
+  </displayList>
+</component>

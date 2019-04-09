@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="es4vphr1" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="i7ww7w" name="LoadingPanel.xml" path="/" exported="true"/>
+    <image id="rhk281" name="baifenbi.png" path="/"/>
+    <image id="rhk282" name="tishi_1.png" path="/" exported="true"/>
+    <image id="rhk283" name="tishi_2.png" path="/" exported="true"/>
+    <image id="rhk284" name="tishi_3.png" path="/" exported="true"/>
+    <image id="rhk288" name="tishi_4.png" path="/" exported="true"/>
+    <image id="rhk289" name="tishi_5.png" path="/" exported="true"/>
+    <image id="o8sx8d" name="2.png" path="/" scale="tile"/>
+    <image id="o8sx8e" name="1.png" path="/"/>
+    <image id="o8sx8f" name="3.png" path="/"/>
+    <component id="o8sx8g" name="LoadingProgressBar.xml" path="/"/>
+    <image id="o8sx8h" name="lading_bg.png" path="/"/>
+  </resources>
+  <publish name="Loading"/>
+</packageDescription>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="a0l5dn4d" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="gbivj" name="set.png" path="/sprite_en/" exported="true"/>
+    <image id="gbivi" name="music.png" path="/sprite_en/" exported="true"/>
+    <image id="gbivk" name="sound.png" path="/sprite_en/" exported="true"/>
+  </resources>
+  <publish name="SettingEn"/>
+</packageDescription>

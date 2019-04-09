@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="8op74ku3" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="hrknd" name="-jiangjin.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrkn3" name="-dengji.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrkn4" name="dengji.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrkn5" name="djjj.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrknb" name="qwsj.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrkne" name="jiangjin.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrknf" name="jiangjlingqu.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrknh" name="jine.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrkni" name="jine_2.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrknj" name="jingyanzhi.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrknk" name="jlsx.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrknm" name="kelingqu.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrkno" name="ljlqjj.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrknt" name="qbylq.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrknr" name="lqjl.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrkn3r" name="tip0.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrkn20" name="tip1.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrkn3q" name="tip2.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrkn23" name="tip3.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrkn22" name="tip4.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrknv" name="xyyjz.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrknw" name="yijihuo.png" path="/sprite_Ch/" exported="true"/>
+    <image id="hrknu" name="wdc.png" path="/sprite_Ch/" exported="true"/>
+  </resources>
+  <publish name="LevelBonusCh"/>
+</packageDescription>

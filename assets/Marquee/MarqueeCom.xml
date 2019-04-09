@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720" pivot="0.5,0.5" opaque="false" designImage="ui://i9cph31fmqh44" designImageOffsetX="-4">
+  <displayList>
+    <image id="n0_f5pz" name="n0" src="f5pz2" fileName="notion_bg.png" xy="153,158" group="n4_f5pz"/>
+    <image id="n1_f5pz" name="n1" src="f5pz1" fileName="laba.png" xy="176,161" group="n4_f5pz"/>
+    <list id="n5_f5pz" name="contentList" xy="239,161" size="932,39" group="n4_f5pz" touchable="false" layout="row" overflow="hidden" scroll="horizontal" defaultItem="ui://i9cph31ff5pz3" align="center" vAlign="middle">
+      <item/>
+    </list>
+    <group id="n4_f5pz" name="marqueeGroup" xy="153,158" size="1033,45" advanced="true"/>
+  </displayList>
+</component>

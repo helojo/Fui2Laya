@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="670,46">
+  <displayList>
+    <image id="n9_hrkn" name="n9" src="hrkna" fileName="Sprite/fengexian.png" xy="0,44" size="669,2"/>
+    <text id="n10_hrkn" name="lvTex" xy="7,6" size="56,36" font="YouYuan" fontSize="18" color="#ab4b15" align="center" vAlign="middle" autoSize="none" bold="true" text="99"/>
+    <text id="n11_hrkn" name="amountTex" xy="77,5" size="144,38" font="YouYuan" fontSize="18" color="#ab4b15" align="center" vAlign="middle" autoSize="none" bold="true" text="4875012.20"/>
+    <text id="n12_hrkn" name="accountNumTex" xy="224,4" size="237,38" font="YouYuan" fontSize="18" color="#ab4b15" align="center" vAlign="middle" autoSize="none" bold="true" text="123465678910121314516"/>
+    <text id="n13_hrkn" name="timeTex" xy="461,4" size="204,38" font="YouYuan" fontSize="18" color="#ab4b15" align="center" vAlign="middle" autoSize="none" bold="true" text="2108.4.47 12:45:45"/>
+  </displayList>
+</component>

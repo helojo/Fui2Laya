@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720" designImage="ui://19ec9vffp3pk3x" designImageOffsetX="-114">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n51_nff8" name="n51" src="nff82i" fileName="sprite_public/icon_di.png" xy="801,13">
+      <gearDisplay controller="c1" pages="0,1"/>
+    </image>
+    <component id="n5_nlo9" name="reportBtn" src="nlo96" fileName="button/reportBut.xml" xy="842,23">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearLook controller="c1" pages="1" values="0,0,0,0" default="1,0,0,1"/>
+    </component>
+    <component id="n7_nlo9" name="rankBtn" src="nlo95" fileName="button/rankBut.xml" xy="947,17">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearXY controller="c1" pages="1" values="875,17" default="947,17"/>
+    </component>
+    <component id="n8_nlo9" name="settingBtn" src="nlo93" fileName="button/settingBut.xml" xy="1141,21">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearXY controller="c1" pages="1" values="1109,21" default="1141,21"/>
+    </component>
+    <component id="n9_nlo9" name="helpBtn" src="nlo94" fileName="button/helpBut.xml" xy="1047,21">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearXY controller="c1" pages="1" values="994,21" default="1047,21"/>
+    </component>
+    <image id="n11_nlo9" name="n11" src="nlo9b" fileName="sprite_public/txk_01.png" xy="86,34"/>
+    <component id="n13_nlo9" name="lvProgressBar" src="nlo97" fileName="lvProgressBar.xml" xy="128,69">
+      <ProgressBar max="100"/>
+    </component>
+    <text id="n15_nlo9" name="nameTex" xy="116,43" size="161,26" font="Arial" fontSize="20" color="#1069a9" align="center" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="null"/>
+    <image id="n16_gqp2" name="n16" src="gqp2m" fileName="sprite_public/jb_k01.png" xy="300,34"/>
+    <image id="n17_gqp2" name="n17" src="gqp2n" fileName="sprite_public/jb_k02.png" xy="336,42"/>
+    <image id="n18_gqp2" name="n18" src="gqp2p" fileName="sprite_public/jb.png" xy="309,39"/>
+    <text id="n19_gqp2" name="coinTex" xy="365,47" size="138,41" font="Arial" fontSize="22" color="#0e65a7" align="center" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="0"/>
+    <text id="n27_gqp2" name="lvPer" xy="164,71" size="76,22" font="Arial" fontSize="16" color="#ffffff" align="center" vAlign="bottom" autoSize="none" strokeColor="#ff6633" text="0%"/>
+    <image id="n28_gqp2" name="n28" src="gqp21h" fileName="sprite_public/dj_k.png" xy="114,63"/>
+    <text id="n29_gqp2" name="lvTex" xy="130,79" pivot="0.5,0.5" anchor="true" size="30,29" font="SimHei" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="1"/>
+    <component id="n33_gqp2" name="preBtn" src="gqp21j" fileName="button/Button2.xml" xy="101,309"/>
+    <component id="n34_gqp2" name="nextBtn" src="gqp21j" fileName="button/Button2.xml" xy="1098,309" skew="0,-180"/>
+    <component id="n35_gqp2" name="fastBtn" src="gqp21k" fileName="button/Button3.xml" xy="938,567"/>
+    <component id="n36_gqp2" name="jp" src="gqp21z" fileName="jpCom.xml" xy="587,3"/>
+    <component id="n44_gqp2" name="IslandInfoEffect" src="gqp21y" fileName="IslandInfoEffect.xml" xy="185,191"/>
+    <component id="n46_gqp2" name="bgBtn" src="gqp222" fileName="button/Button6.xml" xy="530,198" size="421,346"/>
+    <image id="n47_gqp2" name="n47" src="nlo9c" fileName="sprite_public/txk_02.png" xy="30,22"/>
+    <component id="n50_iabx" name="walletBtn" src="iabx2h" fileName="button/Button7.xml" xy="523,38"/>
+    <component id="n58_nlmz" name="backMainPageBtn" src="nlmz2q" fileName="button/Button10.xml" xy="63,599"/>
+    <component id="n59_nlmz" name="personalInfoBtn" src="nlmz2r" fileName="button/Button11.xml" xy="37,29" size="73,73"/>
+    <component id="n60_nlmz" name="fundCom" src="nlmz2z" fileName="GrowthFundCom.xml" xy="471,558" visible="false"/>
+    <component id="n61_nlmz" name="lvCom" src="nlmz30" fileName="lvCom.xml" xy="314,555" visible="false"/>
+  </displayList>
+  <transition name="t0"/>
+</component>

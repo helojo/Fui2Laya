@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="i9cph31f" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="f5pz0" name="MarqueeCom.xml" path="/" exported="true"/>
+    <image id="f5pz1" name="laba.png" path="/"/>
+    <image id="f5pz2" name="notion_bg.png" path="/"/>
+    <component id="f5pz3" name="contentCom.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="Marquee"/>
+</packageDescription>

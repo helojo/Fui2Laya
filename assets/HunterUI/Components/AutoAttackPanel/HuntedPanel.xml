@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="915,558">
+  <displayList>
+    <image id="n0_lnng" name="n0" src="e795x" fileName="Assets/Hunter/frame_2.png" xy="0,0" hideByEditor="true" visible="false"/>
+    <image id="n1_lnng" name="n1" src="e7951k" fileName="Assets/Hunter/zdby.png" xy="404,11" hideByEditor="true" visible="false"/>
+    <image id="n2_lnng" name="n2" src="lnng4c" fileName="Assets/Hunter/gb.png" xy="861,-2" hideByEditor="true" visible="false"/>
+    <image id="n11_lnng" name="n11" src="e79511" fileName="Assets/Hunter/hasHunter.png" xy="54,81"/>
+    <component id="n12_lnng" name="ChangeBtn" src="lnng4j" fileName="Components/AutoAttackPanel/ChangeBtn.xml" xy="253,495"/>
+    <component id="n13_lnng" name="CancelBtn" src="lnng4k" fileName="Components/AutoAttackPanel/CancelBtn.xml" xy="607,493"/>
+    <list id="n14_m1lh" name="List" xy="46,118" size="820,349" layout="flow_hz" overflow="scroll" lineGap="2" colGap="2" defaultItem="ui://kdym4vsblnng4m" autoClearItems="true">
+      <item/>
+    </list>
+  </displayList>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <graph id="n4_k78o" name="n4" xy="0,0" size="1280,720" alpha="0.5" type="rect" fillColor="#ff000000"/>
+    <image id="n5_k78o" name="n5" src="b0xo6" fileName="floor.png" xy="237,100"/>
+    <image id="n6_k78o" name="n6" src="b0xol" fileName="tig.png" xy="303,100"/>
+    <image id="n7_k78o" name="n7" src="b0xo12" fileName="selectedAmount.png" xy="578,123"/>
+    <image id="n8_k78o" name="n8" src="b0xo1" fileName="addTo.png" xy="375,204"/>
+    <image id="n9_k78o" name="n9" src="b0xog" fileName="slider.png" xy="538,196"/>
+    <text id="n10_k78o" name="inputShow" xy="540,201" size="344,39" fontSize="30" color="#ffffff" autoSize="none" text=""/>
+    <component id="n13_k78o" name="no" src="k78o1b" fileName="NoBut.xml" xy="373,573"/>
+    <component id="n14_k78o" name="yes" src="k78o1c" fileName="YesBut.xml" xy="698,572"/>
+    <list id="n15_k78o" name="listNum" xy="373,258" size="527,300" layout="flow_hz" lineGap="16" colGap="55" lineItemCount="3" defaultItem="ui://ggipdywjsb8d1e" align="center" vAlign="middle"/>
+  </displayList>
+</component>

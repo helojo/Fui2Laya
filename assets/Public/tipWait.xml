@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720" opaque="false">
+  <displayList>
+    <graph id="n1_bye6" name="n1" xy="0,0" size="1281,721" group="n2_bye6" alpha="0.5" type="rect"/>
+    <image id="n0_f7x7" name="n0" src="f7x76" fileName="wait.png" xy="592,321" pivot="0.5,0.5" group="n2_bye6"/>
+    <group id="n2_bye6" name="n2" xy="0,0" size="1281,721" advanced="true"/>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n0_f7x7" tween="true" startValue="0" endValue="360" duration="20" repeat="-1"/>
+  </transition>
+</component>

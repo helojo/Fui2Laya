@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="wnu88fl5" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="hrkn0" name="baox_001.png" path="/sprite_public/"/>
+    <image id="hrkn1" name="btn_qwsj.png" path="/sprite_public/"/>
+    <image id="hrkn2" name="bz.png" path="/sprite_public/"/>
+    <image id="hrkn6" name="fengexian.png" path="/sprite_public/"/>
+    <image id="hrkn7" name="fmale_1.png" path="/sprite_public/"/>
+    <image id="hrkn9" name="ing_1.png" path="/sprite_public/"/>
+    <image id="hrknc" name="jb.png" path="/sprite_public/"/>
+    <image id="hrkng" name="jiantou_.png" path="/sprite_public/"/>
+    <image id="hrknx" name="yjihuo_gou.png" path="/sprite_public/"/>
+    <image id="hrknz" name="bx_00.png" path="/1/"/>
+    <image id="hrkn10" name="bx_01.png" path="/1/"/>
+    <image id="hrkn11" name="bx_02.png" path="/1/"/>
+    <image id="hrkn12" name="bx_03.png" path="/1/"/>
+    <image id="hrkn13" name="bx_04.png" path="/1/"/>
+    <image id="hrkn14" name="bx_05.png" path="/1/"/>
+    <image id="hrkn15" name="bx_06.png" path="/1/"/>
+    <image id="hrkn16" name="bx_07.png" path="/1/"/>
+    <image id="hrkn17" name="bx_08.png" path="/1/"/>
+    <image id="hrkn18" name="bx_09.png" path="/1/"/>
+    <image id="hrkn19" name="bx_10.png" path="/1/"/>
+    <image id="hrkn1a" name="bx_11.png" path="/1/"/>
+    <image id="hrkn1b" name="bx_12.png" path="/1/"/>
+    <image id="hrkn1c" name="bx_13.png" path="/1/"/>
+    <image id="hrkn1d" name="bx_14.png" path="/1/"/>
+    <image id="hrkn1e" name="bx_00.png" path="/2/"/>
+    <image id="hrkn1f" name="bx_01.png" path="/2/"/>
+    <image id="hrkn1g" name="bx_02.png" path="/2/"/>
+    <image id="hrkn1h" name="bx_03.png" path="/2/"/>
+    <image id="hrkn1i" name="bx_04.png" path="/2/"/>
+    <image id="hrkn1j" name="bx_05.png" path="/2/"/>
+    <image id="hrkn1k" name="bx_06.png" path="/2/"/>
+    <image id="hrkn1l" name="bx_07.png" path="/2/"/>
+    <image id="hrkn1m" name="bx_08.png" path="/2/"/>
+    <image id="hrkn1n" name="bx_09.png" path="/2/"/>
+    <image id="hrkn1o" name="bx_10.png" path="/2/"/>
+    <image id="hrkn1p" name="bx_11.png" path="/2/"/>
+    <image id="hrkn1q" name="bx_12.png" path="/2/"/>
+    <image id="hrkn1r" name="bx_13.png" path="/2/"/>
+    <image id="hrkn1s" name="bx_14.png" path="/2/"/>
+    <image id="hrkn1t" name="bx_15.png" path="/2/"/>
+    <component id="hrkn1u" name="LevelBonus.xml" path="/" exported="true"/>
+    <image id="hrkn1v" name="fmale_3.png" path="/sprite_public/"/>
+    <image id="hrkn1w" name="gb.png" path="/sprite_public/"/>
+    <image id="hrkn1x" name="hengfu.png" path="/sprite_public/"/>
+    <component id="hrkn1y" name="Button1.xml" path="/Button/"/>
+    <image id="hrkn1z" name="fmale_4.png" path="/sprite_public/"/>
+    <component id="hrkn25" name="Button2.xml" path="/Button/"/>
+    <component id="hrkn26" name="Button3.xml" path="/Button/"/>
+    <component id="hrkn27" name="upgradeCom.xml" path="/"/>
+    <component id="hrkn28" name="receiveCom.xml" path="/"/>
+    <component id="hrkn29" name="fundInfo.xml" path="/"/>
+    <component id="hrkn2a" name="Button4.xml" path="/Button/"/>
+    <image id="hrkn2b" name="0.png" path="/Font/dj_0-9/"/>
+    <image id="hrkn2c" name="1.png" path="/Font/dj_0-9/"/>
+    <image id="hrkn2d" name="2.png" path="/Font/dj_0-9/"/>
+    <image id="hrkn2e" name="3.png" path="/Font/dj_0-9/"/>
+    <image id="hrkn2f" name="4.png" path="/Font/dj_0-9/"/>
+    <image id="hrkn2g" name="5.png" path="/Font/dj_0-9/"/>
+    <image id="hrkn2h" name="6.png" path="/Font/dj_0-9/"/>
+    <image id="hrkn2i" name="7.png" path="/Font/dj_0-9/"/>
+    <image id="hrkn2j" name="8.png" path="/Font/dj_0-9/"/>
+    <image id="hrkn2k" name="9.png" path="/Font/dj_0-9/"/>
+    <image id="hrkn2p" name="..png" path="/Font/jiangjin0-9/"/>
+    <image id="hrkn2r" name="0.png" path="/Font/jiangjin0-9/"/>
+    <image id="hrkn2s" name="1.png" path="/Font/jiangjin0-9/"/>
+    <image id="hrkn2t" name="2.png" path="/Font/jiangjin0-9/"/>
+    <image id="hrkn2u" name="3.png" path="/Font/jiangjin0-9/"/>
+    <image id="hrkn2v" name="4.png" path="/Font/jiangjin0-9/"/>
+    <image id="hrkn2w" name="5.png" path="/Font/jiangjin0-9/"/>
+    <image id="hrkn2x" name="6.png" path="/Font/jiangjin0-9/"/>
+    <image id="hrkn2y" name="7.png" path="/Font/jiangjin0-9/"/>
+    <image id="hrkn2z" name="8.png" path="/Font/jiangjin0-9/"/>
+    <image id="hrkn30" name="9.png" path="/Font/jiangjin0-9/"/>
+    <image id="hrkn32" name="fmale_4(1).png" path="/sprite_public/"/>
+    <image id="hrkn33" name="fmale_5.png" path="/sprite_public/" scale="tile"/>
+    <component id="hrkn34" name="ProgressBar1.xml" path="/"/>
+    <component id="hrkn35" name="Button5.xml" path="/Button/"/>
+    <image id="hrkn38" name="..png" path="/Font/je3e_0-9_/"/>
+    <image id="hrkn39" name="0.png" path="/Font/je3e_0-9_/"/>
+    <image id="hrkn3a" name="1.png" path="/Font/je3e_0-9_/"/>
+    <image id="hrkn3b" name="2.png" path="/Font/je3e_0-9_/"/>
+    <image id="hrkn3c" name="3.png" path="/Font/je3e_0-9_/"/>
+    <image id="hrkn3d" name="4.png" path="/Font/je3e_0-9_/"/>
+    <image id="hrkn3e" name="5.png" path="/Font/je3e_0-9_/"/>
+    <image id="hrkn3f" name="6.png" path="/Font/je3e_0-9_/"/>
+    <image id="hrkn3g" name="7.png" path="/Font/je3e_0-9_/"/>
+    <image id="hrkn3h" name="8.png" path="/Font/je3e_0-9_/"/>
+    <image id="hrkn3i" name="9.png" path="/Font/je3e_0-9_/"/>
+    <font id="hrkn3j" name="lvFont.fnt" path="/Font/je3e_0-9_/" exported="true"/>
+    <component id="hrkn3k" name="tipCom.xml" path="/Font/je3e_0-9_/"/>
+    <font id="hrkn3l" name="LvFont.fnt" path="/Font/dj_0-9/" exported="true"/>
+    <font id="hrkn3m" name="bonusFont.fnt" path="/Font/jiangjin0-9/" exported="true"/>
+    <movieclip id="hrkn3n" name="2.jta" path="/2/"/>
+    <movieclip id="hrkn3o" name="1.jta" path="/1/"/>
+    <component id="hrkn3p" name="Button6.xml" path="/Button/"/>
+  </resources>
+  <publish name="LevelBonus"/>
+</packageDescription>

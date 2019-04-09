@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="41a1co2b" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="nlmz2t" name="levelBonus.png" path="/sprite_ch/" exported="true"/>
+    <image id="nlmz2u" name="growthFund.png" path="/sprite_ch/" exported="true"/>
+    <image id="p3pk3p" name="fastGame.png" path="/sprite_ch/" exported="true"/>
+    <image id="p3pk3q" name="rank.png" path="/sprite_ch/" exported="true"/>
+    <image id="p3pk3r" name="set.png" path="/sprite_ch/" exported="true"/>
+    <image id="p3pk3s" name="help.png" path="/sprite_ch/" exported="true"/>
+    <image id="p3pk3t" name="report.png" path="/sprite_ch/" exported="true"/>
+    <image id="p3pk3u" name="return.png" path="/sprite_ch/" exported="true"/>
+    <image id="p3pk3v" name="bulletHead.png" path="/sprite_ch/" exported="true"/>
+    <image id="gqp2v" name="rate1.png" path="/sprite_ch/" exported="true"/>
+    <image id="gqp2w" name="rate2.png" path="/sprite_ch/" exported="true"/>
+    <image id="gqp2x" name="rate3.png" path="/sprite_ch/" exported="true"/>
+    <image id="nlo9g" name="name1.png" path="/sprite_ch/" exported="true"/>
+    <image id="gqp2u" name="name2.png" path="/sprite_ch/" exported="true"/>
+    <image id="gqp2t" name="name3.png" path="/sprite_ch/" exported="true"/>
+  </resources>
+  <publish name="HallUICh"/>
+</packageDescription>

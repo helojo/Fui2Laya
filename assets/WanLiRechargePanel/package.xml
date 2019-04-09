@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="w9z6n6k1" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="qn360" name="bar_a3.png" path="/balanceImg/"/>
+    <image id="qn361" name="btn_b_y.png" path="/balanceImg/"/>
+    <image id="qn362" name="btn_close.png" path="/balanceImg/"/>
+    <image id="qn363" name="bt_a1.png" path="/balanceImg/"/>
+    <image id="qn364" name="balance_cz_btn.png" path="/balance_lang_cn/"/>
+    <image id="qn365" name="balance_Reminder.png" path="/balance_lang_cn/"/>
+    <image id="qn366" name="balance_cz_btn.png" path="/balance_lang_en/"/>
+    <image id="qn367" name="balance_Reminder.png" path="/balance_lang_en/"/>
+    <component id="qn368" name="WLRechargePanel.xml" path="/" exported="true"/>
+    <component id="qn36a" name="btn_RechargeOK.xml" path="/"/>
+    <component id="qn36c" name="btn_Close.xml" path="/"/>
+  </resources>
+  <publish name="WanLiRechargePanel"/>
+</packageDescription>

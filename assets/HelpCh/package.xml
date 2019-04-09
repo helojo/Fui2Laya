@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="aeca07ps" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="lqxc0" name="btp.png" path="/sprite_ch/" exported="true"/>
+    <image id="o8sxu" name="bz.png" path="/sprite_ch/" exported="true"/>
+    <image id="lqxc1" name="gjp.png" path="/sprite_ch/" exported="true"/>
+    <image id="lqxc4" name="help.png" path="/sprite_ch/" exported="true"/>
+    <image id="lqxca" name="paotai_1.png" path="/sprite_ch/" exported="true"/>
+    <image id="lqxcb" name="paotai_2.png" path="/sprite_ch/" exported="true"/>
+    <image id="lqxcc" name="paotai_3.png" path="/sprite_ch/" exported="true"/>
+    <image id="lqxcd" name="paotaijieshao.png" path="/sprite_ch/" exported="true"/>
+    <image id="lqxce" name="paotaijieshao_.png" path="/sprite_ch/" exported="true"/>
+    <image id="lqxcf" name="tejipao.png" path="/sprite_ch/" exported="true"/>
+    <image id="lqxcg" name="wanfashuoming.png" path="/sprite_ch/" exported="true"/>
+    <image id="lqxch" name="wanfashuoming_.png" path="/sprite_ch/" exported="true"/>
+    <image id="lqxci" name="yuleijieshao.png" path="/sprite_ch/" exported="true"/>
+    <image id="lqxcj" name="yuleijieshao_.png" path="/sprite_ch/" exported="true"/>
+  </resources>
+  <publish name="HelpCh"/>
+</packageDescription>

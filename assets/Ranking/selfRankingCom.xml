@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="839,79">
+  <displayList>
+    <image id="n8_cn06" name="n8" src="cn065" fileName="sprite_public/kuang_.png" xy="0,0"/>
+    <loader id="n13_cn06" name="wsb" xy="21,9" size="99,57" url="ui://a9xzwem1cn06g" align="center"/>
+    <component id="n11_cn06" name="selfName" src="cn06l" fileName="playName.xml" xy="205,11"/>
+    <component id="n12_cn06" name="selfCoin" src="cn06m" fileName="CoinNum.xml" xy="523,10"/>
+    <image id="n15_gdfk" name="n15" src="cn06b" fileName="sprite_public/sbang_1.png" xy="22,11" group="n17_gdfk"/>
+    <text id="n16_gdfk" name="selfRanking" xy="25,16" size="71,43" group="n17_gdfk" font="ui://kpb4wro9cn06y" fontSize="12" align="center" vAlign="middle" autoSize="none" text="1"/>
+    <group id="n17_gdfk" name="selfHaveRankng" xy="22,11" size="90,52" visible="false" advanced="true"/>
+  </displayList>
+</component>
